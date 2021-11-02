@@ -1,0 +1,18 @@
+{
+  "ModEnabledSettings": {
+    "ModCommon": true,
+    "Hollow Point": false,
+    "SereCore": true,
+    "RandomizerMod": true,
+    "Benchwarp": true,
+    "QoL": false,
+    "CustomKnight": true
+  },
+  "LoggingLevel": 2,
+  "ShowDebugLogInGame": false,
+  "PreloadBatchSize": 5,
+  "BoolValues": {},
+  "FloatValues": {},
+  "IntValues": {},
+  "StringValues": {}
+}

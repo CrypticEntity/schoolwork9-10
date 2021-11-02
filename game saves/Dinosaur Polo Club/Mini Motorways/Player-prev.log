@@ -1,0 +1,116 @@
+Mono path[0] = 'C:/Users/jemas/Downloads/Mini.Motorways.v23.07.2021/Mini.Motorways.v23.07.2021/Mini Motorways_Data/Managed'
+Mono config path = 'C:/Users/jemas/Downloads/Mini.Motorways.v23.07.2021/Mini.Motorways.v23.07.2021/MonoBleedingEdge/etc'
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Users/jemas/Downloads/Mini.Motorways.v23.07.2021/Mini.Motorways.v23.07.2021/Mini Motorways_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   (null)
+    VRAM:     3072 MB
+    Driver:   30.0.14.7141
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.087 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.062300 ms
+Assembler serializer hash codes: -78936104, -1082170459
+
+Prevented code-stripping of System.Globalization.ChineseLunisolarCalendar.
+
+Prevented code-stripping of System.Globalization.JapaneseLunisolarCalendar.
+
+Prevented code-stripping of System.Globalization.KoreanLunisolarCalendar.
+
+Prevented code-stripping of System.Globalization.TaiwanLunisolarCalendar.
+
+Prevented code-stripping of System.Globalization.GregorianCalendar.
+
+Prevented code-stripping of System.Globalization.HebrewCalendar.
+
+Prevented code-stripping of System.Globalization.HijriCalendar.
+
+Prevented code-stripping of System.Globalization.JapaneseCalendar.
+
+Prevented code-stripping of System.Globalization.JulianCalendar.
+
+Prevented code-stripping of System.Globalization.KoreanCalendar.
+
+Prevented code-stripping of System.Globalization.PersianCalendar.
+
+Prevented code-stripping of System.Globalization.TaiwanCalendar.
+
+Prevented code-stripping of System.Globalization.ThaiBuddhistCalendar.
+
+Prevented code-stripping of System.Globalization.UmAlQuraCalendar.
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+The character with Unicode value \u007B was not found in the [Helvetica Neue] font asset or any potential fallbacks. It was replaced by Unicode character \u0020 in text object [ChallengesTitle].
+
+The character with Unicode value \u007D was not found in the [Helvetica Neue] font asset or any potential fallbacks. It was replaced by Unicode character \u0020 in text object [ChallengesTitle].
+
+The character with Unicode value \u007B was not found in the [Helvetica Neue] font asset or any potential fallbacks. It was replaced by Unicode character \u0020 in text object [ChallengesTitle].
+
+The character with Unicode value \u007D was not found in the [Helvetica Neue] font asset or any potential fallbacks. It was replaced by Unicode character \u0020 in text object [ChallengesTitle].
+
+The character with Unicode value \u007B was not found in the [Helvetica Neue] font asset or any potential fallbacks. It was replaced by Unicode character \u0020 in text object [WeekTitle].
+
+The character with Unicode value \u007D was not found in the [Helvetica Neue] font asset or any potential fallbacks. It was replaced by Unicode character \u0020 in text object [WeekTitle].
+
+Failed to send 'upgrade_choice' event (Result: 'TooManyItems').
+
+Failed to send 'upgrade_choice' event (Result: 'TooManyItems').
+
+Failed to send 'upgrade_choice' event (Result: 'TooManyItems').
+
+Failed to send 'upgrade_choice' event (Result: 'TooManyItems').
+
+Failed to send 'upgrade_choice' event (Result: 'TooManyItems').
+
+Failed to send 'upgrade_choice' event (Result: 'TooManyItems').
+
+Failed to send 'upgrade_choice' event (Result: 'TooManyItems').
+
+Failed to send 'upgrade_choice' event (Result: 'TooManyItems').
+
+Failed to send 'upgrade_choice' event (Result: 'TooManyItems').
+
+Failed to send 'upgrade_choice' event (Result: 'TooManyItems').
+
+Joystick connected ("Wireless Controller").
+
+Joystick connected ("Controller (XBOX 360 For Windows)").
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4870 -> priority: 1 
+  Thread -> id: 1be8 -> priority: 1 
+  Thread -> id: 3fac -> priority: 1 
+  Thread -> id: 118c -> priority: 1 
+Curl error 42: Callback aborted
