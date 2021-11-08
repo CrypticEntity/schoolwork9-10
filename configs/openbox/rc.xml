@@ -178,6 +178,12 @@
   </dock>
   <keyboard>
     <chainQuitKey>C-g</chainQuitKey>
+    <!-- added keybinds -->
+    <keybind key="A-Enter">
+      <action name="execute">
+        <command>alacritty</command>
+      </action>
+    </keybind>
     <!-- Keybindings for desktop switching -->
     <keybind key="C-A-Left">
       <action name="GoToDesktop">
