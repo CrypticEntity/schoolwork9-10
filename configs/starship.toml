@@ -2,21 +2,21 @@
 # First param ─┌
 [username]
 format = " [╭─$user]($style)@"
-style_user = "bold cyan"
-style_root = "bold cyan"
+style_user = "purple"
+style_root = "purple"
 show_always = true
 
 # Second param
 [hostname]
 format = "[$hostname]($style) in "
-style = "bold dimmed cyan"
+style = "dimmed purple"
 trim_at = "-"
 ssh_only = false
 disabled = false
 
 # Third param
 [directory]
-style = "cyan"
+style = "purple"
 truncation_length = 0
 truncate_to_repo = true
 truncation_symbol = "repo: "
@@ -68,8 +68,8 @@ disabled = true
 
 # Prompt: param 2 └─
 [character]
-success_symbol = " [╰─λ](bold cyan)"
-error_symbol = " [╰─λ](bold cyan)"
+success_symbol = " [╰─λ](bold purple)"
+error_symbol = " [╰─λ](bold purple)"
 
 # SYMBOLS
 [status]

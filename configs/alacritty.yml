@@ -102,9 +102,11 @@
   #multiplier: 3
 
 # Font configuration
-#font:
+font:
   # Normal (roman) font face
-  #normal:
+  normal:
+    family: firacode
+    style: Regular
     # Font family
     #
     # Default:
@@ -117,7 +119,9 @@
     #style: Regular
 
   # Bold font face
-  #bold:
+  bold:
+    family: firacode
+    style: Bold
     # Font family
     #
     # If the bold family is not specified, it will fall back to the
@@ -419,10 +423,8 @@
 #   - (macOS) /bin/bash --login
 #   - (Linux/BSD) user login shell
 #   - (Windows) powershell
-#shell:
-#  program: /bin/bash
-#  args:
-#    - --login
+shell:
+  program: /bin/fish
 
 # Startup directory
 #
