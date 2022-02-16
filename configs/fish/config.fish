@@ -15,11 +15,9 @@ set -U __done_notification_urgency_level low
 
 
 # Add ~/.local/bin to PATH
-if test -d ~/.local/bin
-    if not contains -- ~/.local/bin $PATH
-        set -p PATH ~/.local/bin
-    end
-end
+
+
+set -p PATH ~/.local/bin
 
 # Add depot_tools to PATH
 if test -d ~/Applications/depot_tools
