@@ -25,6 +25,8 @@ font pango:monospace 8
 exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id dwall -s firewatch
 exec --no-startup-id picom -b --experimental-backends
+exec --no-startup-id xbacklight -ctrl intel_backlight -set 100
+exec --no-startup-id pasystray
 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
@@ -153,7 +155,7 @@ bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
-bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
+bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'Exit i3?' -B 'Yes' 'i3-msg exit'"
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
@@ -204,5 +206,5 @@ client.urgent #d33682 #d33682 #fdf6e3 #dc322f
 
 for_window [class=".*"] border pixel 0
 
-gaps inner 15
-gaps outer 10
+gaps inner 10
+gaps outer 5
