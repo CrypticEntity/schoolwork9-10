@@ -84,8 +84,7 @@ function copy
 end
 
 function fish_user_key_bindings
-  # ...
-  bind \e\e 'thefuck-command-line'  # Bind EscEsc to thefuck
+  # ... bind \e\e 'thefuck-command-line'  # Bind EscEsc to thefuck
   # ...
 end
 
@@ -105,6 +104,7 @@ alias cat='bat --style header --style rules --style snip --style changes --style
 [ ! -x /usr/bin/yay ] && [ -x /usr/bin/paru ] && alias yay='paru --bottomup'
 
 # Common use
+#alias vim="nvim"
 alias aup="pamac upgrade --aur"
 alias grubup="sudo update-grub"
 alias fixpacman="sudo rm /var/lib/pacman/db.lck"
