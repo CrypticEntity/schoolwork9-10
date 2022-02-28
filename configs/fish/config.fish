@@ -105,6 +105,7 @@ alias cat='bat --style header --style rules --style snip --style changes --style
 
 # Common use
 #alias vim="nvim"
+alias mpv="mpv --no-audio-display"
 alias aup="pamac upgrade --aur"
 alias grubup="sudo update-grub"
 alias fixpacman="sudo rm /var/lib/pacman/db.lck"
