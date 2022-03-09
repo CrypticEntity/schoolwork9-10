@@ -27,6 +27,8 @@ exec --no-startup-id dwall -s firewatch
 exec --no-startup-id picom -b --experimental-backends
 exec --no-startup-id xbacklight -ctrl intel_backlight -set 100
 exec --no-startup-id pasystray
+exec --no-startup-id gentoo-pipewire-launcher
+exec --no-startup-id easyeffects -w
 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
