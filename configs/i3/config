@@ -23,7 +23,7 @@ font pango:monospace 8
 # Start XDG autostart .desktop files using dex. See also
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id dex --autostart --environment i3
-exec --no-startup-id dwall -s firewatch
+exec --no-startup-id dwall -s lakeside
 exec --no-startup-id picom -b --experimental-backends
 exec --no-startup-id xbacklight -ctrl intel_backlight -set 100
 exec --no-startup-id pasystray
@@ -194,9 +194,9 @@ bar {
 	status_command i3blocks -c ~/.i3/i3blocks.conf
   colors {
     separator #268bd2
-    background #161925`
+    background #1b1b1b
     statusline #839496
-    focused_workspace #bebebe #c50ed2 #bebebe
+    focused_workspace #bebebe #f67e7d #bebebe
     inactive_workspace #0c0e14 #30333e #0c0e14
     active_workspace #fdf6e3 #6c71c4 #fdf6e3
     urgent_workspace #d33682 #d33682 #fdf6e3

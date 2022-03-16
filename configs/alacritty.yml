@@ -182,7 +182,7 @@ font:
 colors:
   # Sweet Colors
   primary:
-    background: '#161925'
+    background: '#1a1e21'
     
     foreground: '#c3c7d1'
     dim_foreground: '#5c6370'
@@ -197,7 +197,7 @@ colors:
     blue:    '#7cb7ff'
     magenta: '#c74ded'
     cyan:    '#00c1e4'
-    white:   '#dcdfe4'
+    white:   '#6b6d6f'
 
 
   # Indexed Colors
