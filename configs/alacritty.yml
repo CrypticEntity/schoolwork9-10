@@ -180,15 +180,13 @@ font:
 #draw_bold_text_with_bright_colors: false
 
 colors:
-  # Sweet Colors
   primary:
-    background: '#1a1e21'
-    
+    background: '#161925'
+ 
     foreground: '#c3c7d1'
     dim_foreground: '#5c6370'
     bright_foreground: '#828997'
-
-  # Normal colors
+ 
   normal:
     black:   '#1d1f21'
     red:     '#ed254e'
@@ -197,8 +195,7 @@ colors:
     blue:    '#7cb7ff'
     magenta: '#c74ded'
     cyan:    '#00c1e4'
-    white:   '#6b6d6f'
-
+    white:   '#dcdfe4'
 
   # Indexed Colors
   #
