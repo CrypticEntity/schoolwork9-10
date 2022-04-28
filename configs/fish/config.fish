@@ -104,7 +104,7 @@ alias cat='bat --style header --style rules --style snip --style changes --style
 [ ! -x /usr/bin/yay ] && [ -x /usr/bin/paru ] && alias yay='paru --bottomup'
 
 # Common use
-#alias vim="nvim"
+alias vim="nvim"
 alias mpv="mpv --no-audio-display"
 alias aup="pamac upgrade --aur"
 alias grubup="sudo update-grub"
