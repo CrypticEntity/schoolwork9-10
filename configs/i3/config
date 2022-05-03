@@ -194,7 +194,7 @@ bar {
 	status_command i3blocks -c ~/.i3/i3blocks.conf
   colors {
     separator #268bd2
-    background #161925`
+    background #161925
     statusline #839496
     focused_workspace #bebebe #c50ed2 #bebebe
     inactive_workspace #0c0e14 #30333e #0c0e14
