@@ -1,14 +1,14 @@
-money = 0
-addMoneyAmount = 0
-menuResponse = 0
-
-
 def addMoney():
+    moneyFile = open("money", "r")
+    money = int(moneyFile.readline())
+
+    
     if money == 0:        
         addMoneyConfirm = input("you don't have any money, you would like to add some:")
-    else:
-        addMoneyConfirm = input("You Have $", money, " You would like to add more")
-    
+
+    else:    
+        addMoneyConfirm = input("You Have $"+ str(money)+ " You would like to add more:")
+
     if addMoneyConfirm == "yes":
         addMoneyAmount = int(input("How Much:"))
         money = money + addMoneyAmount
