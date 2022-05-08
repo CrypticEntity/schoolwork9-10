@@ -30,6 +30,7 @@ exec --no-startup-id pasystray
 exec --no-startup-id gentoo-pipewire-launcher
 exec --no-startup-id easyeffects -w
 exec --no-startup-id $home/.xsessionrc
+exec --no-startup-id polybar
 exec mpd
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
@@ -56,8 +57,8 @@ floating_modifier $mod
 bindsym $mod+Return exec alacritty
 
 # Pause Music
-bindsym $mod+p mpc pause
-bindsym $mod+Shift+p mpc play
+bindsym $mod+p exec mpc toggle
+bindsym $mod+Shift+p exec mpc play
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -193,23 +194,23 @@ bindsym $mod+r mode "resize"
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-bar {
- 	font pango:Source Sans Pro-10 10
-	status_command i3blocks -c ~/.i3/i3blocks.conf
-  colors {
-    separator #268bd2
-    background #161925
-    statusline #839496
-    focused_workspace #bebebe #c50ed2 #bebebe
-    inactive_workspace #0c0e14 #30333e #0c0e14
-    active_workspace #fdf6e3 #6c71c4 #fdf6e3
-    urgent_workspace #d33682 #d33682 #fdf6e3
-  }
-}
-client.focused #6c71c4 #6c71c4 #fdf6e3 #6c71c4
-client.focused_inactive #073642 #073642 #eee8d5 #6c71c4
-client.unfocused #073642 #073642 #93a1a1 #586e75
-client.urgent #d33682 #d33682 #fdf6e3 #dc322f
+#bar {
+# 	font pango:Source Sans Pro-10 10
+#	status_command i3blocks -c ~/.i3/i3blocks.conf
+#  colors {
+#    separator #268bd2
+#    background #161925
+#    statusline #839496
+#    focused_workspace #bebebe #c50ed2 #bebebe
+#    inactive_workspace #0c0e14 #30333e #0c0e14
+#    active_workspace #fdf6e3 #6c71c4 #fdf6e3
+#    urgent_workspace #d33682 #d33682 #fdf6e3
+#  }
+#}
+#client.focused #6c71c4 #6c71c4 #fdf6e3 #6c71c4
+#client.focused_inactive #073642 #073642 #eee8d5 #6c71c4
+#client.unfocused #073642 #073642 #93a1a1 #586e75
+#client.urgent #d33682 #d33682 #fdf6e3 #dc322f
 
 for_window [class=".*"] border pixel 0
 
