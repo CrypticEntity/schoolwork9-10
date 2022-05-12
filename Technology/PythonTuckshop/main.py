@@ -4,11 +4,12 @@ milkCost = 300
 pastyCost = 350
 toastyCost = 400
 waterCost = 200
-wrapCost = 450
+chickenWrapCost = 450
 
 
 def sureChecker(): 
     sureCheck = input("Are you sure:")
+    
     if sureCheck == "yes":
         return True
     else:
@@ -50,11 +51,15 @@ def addMoney():
             main()
         
 def buySomething():
-    firstTimeRun = 0
-    if firstTimeRun <= 0:
+    #firstTimeRun = 0
+    #if firstTimeRun <= 0:
+    #    orderTotal = 0
+    #firstTimeRun += 1
+    try:
+        orderTotal
+    except NameError:
         orderTotal = 0
-    firstTimeRun += 1
-
+    
     money = updateMoneyVariable()
     print("You Have $"+str(money / 100))
     print("What would you like to buy?")
@@ -67,15 +72,26 @@ def buySomething():
         print("What Food do You Want")
         print("Type Number To Proceed")
         print("1: Chicken Strip, $1.50")
-        print("2: Chichen Wrap, $4.50")
+        print("2: Chicken Wrap, $4.50")
         print("3: Pasty, $3.50")
         print("4: Toasty, $4.00")
-        menuResponse = input("Option:")
-        if menuResponse == 1:
+        subMenuResponse = input("Option:")
+        if subMenuResponse == 1:
             if sureChecker() == True:
                 orderTotal += chickenStripCost
 
+        if subMenuResponse == 2:
+            if sureChecker() == True:
+                orderTotal += chickenWrapCost
 
+        if subMenuResponse == 3:
+            if sureChecker() == True:
+                orderTotal += pastyCost
+
+        if subMenuResponse == 4:
+            if sureChecker() == True:
+                orderTotal += toastyCost
+        print("Your order now costs $", orderTotal ) 
     if menuResponse == 2: 
         print("What Drink do You Want")
         print("Type Number To Proceed")
