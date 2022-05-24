@@ -1,4 +1,4 @@
-export GTK_THEME=Sweet-Dark-v40
+#export GTK_THEME=Sweet-Dark-v40
 ## Set values
 # Hide welcome message
 set fish_greeting
