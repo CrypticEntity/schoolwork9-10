@@ -1,6 +1,0 @@
-(s)|{"appid":"e363d337-fa9d-4a69-b843-7ed40407e389","userid":"2442de8d4b092134db234e68fcda5f99","sessionid":5975868484478599462,"platform":"WindowsPlayer","platformid":2,"sdk_ver":"u2020.2.6f1","sdk_rev":"8a2143876886","session_count":5,"localprojectid":"defbdcd21f5ce481c8974478159be1ea","build_guid":"87daa120383c94582afba7e6507333d0","deviceid":"unknown","identity_token":"2442de8d4b092134db234e68fcda5f99"}
-(g)|2
-{"type":"analytics.custom.v1","msg":{"custom_params":{"level_name":"MexicoCity","score":"272","time":"700.1","selected_upgrade":"Motorway","other_upgrade":"Roundabout","remaining_Concrete":"33/140","remaining_Motorway":"0/0","remaining_TrafficLight":"0/0","remaining_Roundabout":"1/2","remaining_Tunnel":"2/2"},"ts":1627710059324,"t_since_start":3324930237,"name":"upgrade_choice"}}
-{"type":"analytics.custom.v1","msg":{"custom_params":{"screen_name":"Pause"},"ts":1627710100008,"t_since_start":3365614409,"name":"screen_visit"}}
-{"type":"analytics.appRunning.v1","msg":{"duration":3363,"local_time_offset":-36000000,"ts":1627710102486,"t_since_start":3368092256}}
-(1){"type":"analytics.appStop.v1","msg":{"ts":1627710102487,"t_since_start":3368092811}}
