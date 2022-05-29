@@ -1,0 +1,186 @@
+   0.002 2022-05-29 11:18:58; Factorio 1.1.53 (build 59373, win64, full)
+   0.003 Operating system: Windows 10 (build 25120) 
+   0.003 Program arguments: "C:\GOG Games\Factorio\bin\x64\factorio.exe" 
+   0.003 Read data path: C:/GOG Games/Factorio/data
+   0.003 Write data path: C:/Users/jemas/AppData/Roaming/Factorio [464063/953029MB]
+   0.003 Binaries path: C:/GOG Games/Factorio/bin
+   0.030 System info: [CPU: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz, 8 cores, RAM: 9312/16075 MB, page: 13355/18507 MB, virtual: 4253/134217727 MB, extended virtual: 0 MB]
+   0.031 Display options: [FullScreen: 0] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmw] [Lang: en]
+   0.040 Available displays: 1
+   0.040  [0]: \\.\DISPLAY1 - Intel(R) Iris(R) Xe Graphics {0x05, [0,0], 1920x1080, 32bit, 144Hz}
+   0.099 [Direct3D11] Display: 0, Output: 0, DisplayAdapter: 0, RenderingAdapter: 0; d3dcompiler_47.dll
+   0.342 Initialised Direct3D[0]: Intel(R) Iris(R) Xe Graphics; id: 8086-9a49; driver: igdumdim64.dll 30.0.100.9805
+   0.342   D3D Feature Level: 11.1, DXGI 1.5+, SwapChain: 3,flip-discard,-,-,-,none
+   0.342   [Local Video Memory] Budget: 7379MB, CurrentUsage: 4MB, Reservation: 0/3817MB
+   0.342   [Non-Local Vid.Mem.] Budget: 0MB, CurrentUsage: 0MB, Reservation: 0/0MB
+   0.342   Tiled resources: Tier 2
+   0.342   Unified Memory Architecture: Yes
+   0.342   BGR 565 Supported: Yes
+   0.343   MaximumFrameLatency: 3, GPUThreadPriority: 0
+   0.343 Graphics settings preset: integrated-gpuhigh
+   0.343   Dedicated video memory size 128 MB
+   0.446 Desktop composition is active.
+   0.446 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: low-quality] [Color: 32bit]
+   0.446                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: low] [Other: sTDCwt] [B:0,C:0,S:100]
+   0.470 DSound: Starting _dsound_update thread
+   0.470 [Audio] Backend:default; Depth:16, Channel:2, Frequency:44100; MixerQuality:linear
+   0.470 DSound: Enter _dsound_update; tid=25484
+   0.706 Loading mod core 0.0.0 (data.lua)
+   0.888 Loading mod base 1.1.53 (data.lua)
+   1.569 Loading mod base 1.1.53 (data-updates.lua)
+   1.722 Checksum for core: 1625176034
+   1.722 Checksum of base: 98178652
+   2.051 Prototype list checksum: 3034860339
+   2.115 Loading sounds...
+   7.550 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1653210929
+   7.550 Info PlayerData.cpp:78: Cloud player-data.json unavailable
+   7.749 Initial atlas bitmap size is 16384
+   7.784 Created atlas bitmap 16384x16372 [none]
+   7.787 Created atlas bitmap 16384x10748 [none]
+   7.788 Created atlas bitmap 8192x4188 [decal]
+   7.789 Created atlas bitmap 16384x5568 [low-object, linear-minification]
+   7.789 Created atlas bitmap 8192x4208 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   7.790 Created atlas bitmap 16384x6064 [terrain, mipmap, linear-minification, linear-mip-level]
+   7.790 Created atlas bitmap 4096x3216 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   7.790 Created atlas bitmap 4096x1856 [smoke, mipmap, linear-minification, linear-magnification]
+   7.790 Created atlas bitmap 4096x3104 [mipmap]
+   7.790 Created atlas bitmap 8192x2240 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   7.791 Created atlas bitmap 8192x1496 [alpha-mask]
+   7.794 Created atlas bitmap 16384x4152 [shadow, linear-magnification, alpha-mask]
+   7.794 Created atlas bitmap 4096x1328 [shadow, mipmap, linear-magnification, alpha-mask]
+   7.794 Created atlas bitmap 2048x240 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   7.798 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+  12.772 Parallel Sprite Loader initialized (threads: 7)
+  21.078 Sprites loaded
+  21.133 Generated mipmaps (4) for atlas [3] of size 16384x5568   
+  21.144 Generated mipmaps (3) for atlas [4] of size 8192x4208   
+  21.169 Generated mipmaps (3) for atlas [5] of size 16384x6064   
+  21.180 Generated mipmaps (3) for atlas [6] of size 4096x3216   
+  21.192 Generated mipmaps (3) for atlas [7] of size 4096x1856   
+  21.226 Generated mipmaps (3) for atlas [8] of size 4096x3104   
+  21.237 Generated mipmaps (5) for atlas [9] of size 8192x2240   
+  21.249 Generated mipmaps (3) for atlas [12] of size 4096x1328   
+  21.256 Custom mipmaps uploaded.
+  21.950 Factorio initialised
+  21.950 Discord overlay detected (DiscordHook64.dll)
+  40.705 Loading map C:\Users\jemas\AppData\Roaming\Factorio\saves\save.zip: 5482751 bytes.
+  40.737 Loading level.dat: 12252830 bytes.
+  40.741 Info Scenario.cpp:198: Map version 1.1.53-0
+  40.955 Loading script.dat: 1182 bytes.
+  40.959 Checksum for script C:/Users/jemas/AppData/Roaming/Factorio/temp/currently-playing/control.lua: 3795083680
+ 275.522 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+ 275.772 Info AppManagerStates.cpp:1941: Saving finished
+ 597.888 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+ 598.146 Info AppManagerStates.cpp:1941: Saving finished
+ 902.005 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+ 902.281 Info AppManagerStates.cpp:1941: Saving finished
+1221.256 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+1221.526 Info AppManagerStates.cpp:1941: Saving finished
+1546.356 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+1546.655 Info AppManagerStates.cpp:1941: Saving finished
+1846.655 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+1847.026 Info AppManagerStates.cpp:1941: Saving finished
+2147.055 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+2147.396 Info AppManagerStates.cpp:1941: Saving finished
+2447.888 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+2448.171 Info AppManagerStates.cpp:1941: Saving finished
+2748.157 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+2748.442 Info AppManagerStates.cpp:1941: Saving finished
+3048.439 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+3048.740 Info AppManagerStates.cpp:1941: Saving finished
+3352.624 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+3352.972 Info AppManagerStates.cpp:1941: Saving finished
+3661.010 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+3661.336 Info AppManagerStates.cpp:1941: Saving finished
+3966.260 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+3966.600 Info AppManagerStates.cpp:1941: Saving finished
+4281.054 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+4281.341 Info AppManagerStates.cpp:1941: Saving finished
+4581.338 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+4581.685 Info AppManagerStates.cpp:1941: Saving finished
+4882.537 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+4882.852 Info AppManagerStates.cpp:1941: Saving finished
+5182.837 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+5183.129 Info AppManagerStates.cpp:1941: Saving finished
+5493.337 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+5493.659 Info AppManagerStates.cpp:1941: Saving finished
+5805.188 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+5805.475 Info AppManagerStates.cpp:1941: Saving finished
+6110.023 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+6110.329 Info AppManagerStates.cpp:1941: Saving finished
+6456.238 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+6456.504 Info AppManagerStates.cpp:1941: Saving finished
+6785.656 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+6785.923 Info AppManagerStates.cpp:1941: Saving finished
+7085.921 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+7086.187 Info AppManagerStates.cpp:1941: Saving finished
+7393.656 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+7393.912 Info AppManagerStates.cpp:1941: Saving finished
+7693.904 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+7694.200 Info AppManagerStates.cpp:1941: Saving finished
+7995.306 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+7995.555 Info AppManagerStates.cpp:1941: Saving finished
+8332.490 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+8332.751 Info AppManagerStates.cpp:1941: Saving finished
+8667.645 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+8667.989 Info AppManagerStates.cpp:1941: Saving finished
+8967.987 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+8968.258 Info AppManagerStates.cpp:1941: Saving finished
+9307.355 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+9307.605 Info AppManagerStates.cpp:1941: Saving finished
+9620.422 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+9620.705 Info AppManagerStates.cpp:1941: Saving finished
+9920.705 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+9920.982 Info AppManagerStates.cpp:1941: Saving finished
+10251.921 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+10252.187 Info AppManagerStates.cpp:1941: Saving finished
+10552.172 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+10552.435 Info AppManagerStates.cpp:1941: Saving finished
+10860.454 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+10860.739 Info AppManagerStates.cpp:1941: Saving finished
+11859.688 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+11859.962 Info AppManagerStates.cpp:1941: Saving finished
+12159.955 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+12160.225 Info AppManagerStates.cpp:1941: Saving finished
+12460.221 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+12460.524 Info AppManagerStates.cpp:1941: Saving finished
+12761.421 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+12761.705 Info AppManagerStates.cpp:1941: Saving finished
+13064.489 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+13064.753 Info AppManagerStates.cpp:1941: Saving finished
+13364.739 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+13364.987 Info AppManagerStates.cpp:1941: Saving finished
+13665.571 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+13665.847 Info AppManagerStates.cpp:1941: Saving finished
+13966.353 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+13966.613 Info AppManagerStates.cpp:1941: Saving finished
+14267.072 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+14267.329 Info AppManagerStates.cpp:1941: Saving finished
+14567.622 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+14567.891 Info AppManagerStates.cpp:1941: Saving finished
+14870.771 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+14871.048 Info AppManagerStates.cpp:1941: Saving finished
+15227.404 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+15227.665 Info AppManagerStates.cpp:1941: Saving finished
+15528.137 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+15528.404 Info AppManagerStates.cpp:1941: Saving finished
+15831.704 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+15831.984 Info AppManagerStates.cpp:1941: Saving finished
+16132.437 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+16132.692 Info AppManagerStates.cpp:1941: Saving finished
+16444.872 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+16445.140 Info AppManagerStates.cpp:1941: Saving finished
+16492.603 Info AppManagerStates.cpp:1941: Saving finished
+16493.127 Quitting: window closed.
+16493.515 DSound: Stopping voice
+16493.515 DSound: Joining thread
+16493.518 DSound: Exit _dsound_update; tid=25484
+16493.518 DSound: Waiting for voice to stop ... signaled
+16493.519 DSound: Joined thread
+16493.519 DSound: Destroying thread
+16493.519 DSound: Thread destroyed
+16493.519 DSound: Releasing buffer
+16493.519 DSound: Voice stopped
+16493.519 DSound: Deallocating voice
+16493.519 DSound: Deallocated voice
+16493.536 Goodbye

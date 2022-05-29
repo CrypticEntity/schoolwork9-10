@@ -1,0 +1,93 @@
+   0.013 2022-05-29 19:41:50; Factorio 1.1.53 (build 59373, win64, full)
+   0.013 Operating system: Windows 10 (build 25126) 
+   0.013 Program arguments: "C:\GOG Games\Factorio\bin\x64\factorio.exe" 
+   0.014 Read data path: C:/GOG Games/Factorio/data
+   0.014 Write data path: C:/Users/jemas/AppData/Roaming/Factorio [463048/953029MB]
+   0.014 Binaries path: C:/GOG Games/Factorio/bin
+   0.045 System info: [CPU: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz, 8 cores, RAM: 6782/16075 MB, page: 8322/18507 MB, virtual: 4253/134217727 MB, extended virtual: 0 MB]
+   0.045 Display options: [FullScreen: 0] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmw] [Lang: en]
+   0.052 Available displays: 1
+   0.052  [0]: \\.\DISPLAY1 - Intel(R) Iris(R) Xe Graphics {0x05, [0,0], 1920x1080, 32bit, 60Hz}
+   0.108 [Direct3D11] Display: 0, Output: 0, DisplayAdapter: 0, RenderingAdapter: 0; d3dcompiler_47.dll
+   0.391 Initialised Direct3D[0]: Intel(R) Iris(R) Xe Graphics; id: 8086-9a49; driver: igdumdim64.dll 30.0.100.9805
+   0.391   D3D Feature Level: 11.1, DXGI 1.5+, SwapChain: 3,flip-discard,-,-,-,none
+   0.392   [Local Video Memory] Budget: 7379MB, CurrentUsage: 4MB, Reservation: 0/3817MB
+   0.392   [Non-Local Vid.Mem.] Budget: 0MB, CurrentUsage: 0MB, Reservation: 0/0MB
+   0.392   Tiled resources: Tier 2
+   0.392   Unified Memory Architecture: Yes
+   0.392   BGR 565 Supported: Yes
+   0.392   MaximumFrameLatency: 3, GPUThreadPriority: 0
+   0.392 Graphics settings preset: integrated-gpuhigh
+   0.392   Dedicated video memory size 128 MB
+   0.471 Desktop composition is active.
+   0.471 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: low-quality] [Color: 32bit]
+   0.471                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: low] [Other: sTDCwt] [B:0,C:0,S:100]
+   0.506 DSound: Starting _dsound_update thread
+   0.506 [Audio] Backend:default; Depth:16, Channel:2, Frequency:44100; MixerQuality:linear
+   0.507 DSound: Enter _dsound_update; tid=14668
+   0.736 Loading mod core 0.0.0 (data.lua)
+   0.896 Loading mod base 1.1.53 (data.lua)
+   1.878 Loading mod base 1.1.53 (data-updates.lua)
+   2.009 Checksum for core: 1625176034
+   2.009 Checksum of base: 98178652
+   2.389 Prototype list checksum: 3034860339
+   2.452 Loading sounds...
+   8.758 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1653803631
+   8.758 Info PlayerData.cpp:78: Cloud player-data.json unavailable
+   8.928 Initial atlas bitmap size is 16384
+   8.955 Created atlas bitmap 16384x16372 [none]
+   8.957 Created atlas bitmap 16384x10748 [none]
+   8.957 Created atlas bitmap 8192x4188 [decal]
+   8.958 Created atlas bitmap 16384x5568 [low-object, linear-minification]
+   8.959 Created atlas bitmap 8192x4208 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   8.959 Created atlas bitmap 16384x6064 [terrain, mipmap, linear-minification, linear-mip-level]
+   8.960 Created atlas bitmap 4096x3216 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   8.960 Created atlas bitmap 4096x1856 [smoke, mipmap, linear-minification, linear-magnification]
+   8.960 Created atlas bitmap 4096x3104 [mipmap]
+   8.960 Created atlas bitmap 8192x2240 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   8.960 Created atlas bitmap 8192x1496 [alpha-mask]
+   8.962 Created atlas bitmap 16384x4152 [shadow, linear-magnification, alpha-mask]
+   8.963 Created atlas bitmap 4096x1328 [shadow, mipmap, linear-magnification, alpha-mask]
+   8.963 Created atlas bitmap 2048x240 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   8.968 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+  12.033 Parallel Sprite Loader initialized (threads: 7)
+  19.716 Sprites loaded
+  19.782 Generated mipmaps (4) for atlas [3] of size 16384x5568   
+  19.794 Generated mipmaps (3) for atlas [4] of size 8192x4208   
+  19.820 Generated mipmaps (3) for atlas [5] of size 16384x6064   
+  19.832 Generated mipmaps (3) for atlas [6] of size 4096x3216   
+  19.843 Generated mipmaps (3) for atlas [7] of size 4096x1856   
+  19.905 Generated mipmaps (3) for atlas [8] of size 4096x3104   
+  19.917 Generated mipmaps (5) for atlas [9] of size 8192x2240   
+  19.929 Generated mipmaps (3) for atlas [12] of size 4096x1328   
+  19.934 Custom mipmaps uploaded.
+  20.767 Factorio initialised
+  29.289 Loading map C:\Users\jemas\AppData\Roaming\Factorio\saves\save.zip: 5739663 bytes.
+  29.353 Loading level.dat: 14026049 bytes.
+  29.357 Info Scenario.cpp:198: Map version 1.1.53-0
+  29.578 Loading script.dat: 1182 bytes.
+  29.581 Checksum for script C:/Users/jemas/AppData/Roaming/Factorio/temp/currently-playing/control.lua: 3795083680
+ 365.877 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+ 366.127 Info AppManagerStates.cpp:1941: Saving finished
+ 671.391 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+ 671.761 Info AppManagerStates.cpp:1941: Saving finished
+1179.459 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+1179.720 Info AppManagerStates.cpp:1941: Saving finished
+1537.978 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+1538.214 Info AppManagerStates.cpp:1941: Saving finished
+1849.693 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+1849.951 Info AppManagerStates.cpp:1941: Saving finished
+1886.862 Info AppManagerStates.cpp:1941: Saving finished
+1887.364 Quitting: window closed.
+1887.635 DSound: Stopping voice
+1887.635 DSound: Joining thread
+1887.640 DSound: Exit _dsound_update; tid=14668
+1887.640 DSound: Waiting for voice to stop ... signaled
+1887.640 DSound: Joined thread
+1887.640 DSound: Destroying thread
+1887.640 DSound: Thread destroyed
+1887.640 DSound: Releasing buffer
+1887.640 DSound: Voice stopped
+1887.640 DSound: Deallocating voice
+1887.640 DSound: Deallocated voice
+1887.834 Goodbye
