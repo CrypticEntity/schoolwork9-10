@@ -1,0 +1,118 @@
+Loading player data from C:/Users/jemas/Downloads/PowerWash.Simulator.v0.5.1/PowerWash.Simulator.v0.5.1/PowerWashSimulator_Data/data.unity3d
+Initialize engine version: 2020.3.16f1 (049d6eca3c44)
+[Subsystems] Discovering subsystems at path C:/Users/jemas/Downloads/PowerWash.Simulator.v0.5.1/PowerWash.Simulator.v0.5.1/PowerWashSimulator_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   
+    VRAM:     6023 MB
+    Driver:   30.0.14.7212
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+New input system (experimental) initialized
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.987100 ms
+Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+
+Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+
+SpriteAtlasManager.atlasRequested wasn't listened to while HUD requested.
+
+SpriteAtlasManager.atlasRequested wasn't listened to while Buttons_Keyboard requested.
+
+SpriteAtlasManager.atlasRequested wasn't listened to while Buttons_Keyboard requested.
+
+SpriteAtlasManager.atlasRequested wasn't listened to while Buttons_Keyboard requested.
+
+Material Sprites-Mask doesn't have _Stencil property
+
+Releasing render texture that is set to be RenderTexture.active!
+
+[UAVCompatibilityCheck] WashingMode set to Standard (sum=64)
+
+Sprite PWMenuLogo matches more than one atlases (MainMenu,MenuGraphics,). Default to first atlas.
+
+Material Sprites-Mask doesn't have _Stencil property
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 46)
+Material Sprites-Mask doesn't have _Stencil property
+
+
+Unloading 161 unused Assets to reduce memory usage. Loaded Objects now: 20979.
+Total: 47.112600 ms (FindLiveObjects: 0.887300 ms CreateObjectMapping: 2.574100 ms MarkObjects: 43.530700 ms  DeleteObjects: 0.119800 ms)
+
+The referenced script on this Behaviour (Game Object '!ftraceLightmaps') is missing!
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 46)
+UnloadTime: 0.973400 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 21534.
+Total: 61.875100 ms (FindLiveObjects: 1.326800 ms CreateObjectMapping: 1.510500 ms MarkObjects: 58.954500 ms  DeleteObjects: 0.083000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 46)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 21534.
+Total: 47.626700 ms (FindLiveObjects: 1.037900 ms CreateObjectMapping: 2.248600 ms MarkObjects: 44.304600 ms  DeleteObjects: 0.035100 ms)
+
+Material Sprites-Mask doesn't have _Stencil property
+
+Material Sprites-Mask doesn't have _Stencil property
+
+Material Sprites-Mask doesn't have _Stencil property
+
+Material Sprites-Mask doesn't have _Stencil property
+
+Material Sprites-Mask doesn't have _Stencil property
+
+Material Sprites-Mask doesn't have _Stencil property
+
+Material Sprites-Mask doesn't have _Stencil property
+
+Material Sprites-Mask doesn't have _Stencil property
+
+Material Sprites-Mask doesn't have _Stencil property
+
+Material Sprites-Mask doesn't have _Stencil property
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 46)
+Trying to destroy object 0 but it doesn't seem to exist anymore!
+
+UnloadTime: 7.896800 ms
+
+Unloading 1320 unused Assets to reduce memory usage. Loaded Objects now: 33497.
+Total: 63.725200 ms (FindLiveObjects: 2.169300 ms CreateObjectMapping: 3.951500 ms MarkObjects: 55.064200 ms  DeleteObjects: 2.539500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 46)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 33497.
+Total: 56.810000 ms (FindLiveObjects: 1.738700 ms CreateObjectMapping: 1.390200 ms MarkObjects: 53.618100 ms  DeleteObjects: 0.061200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 46)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 33500.
+Total: 67.866700 ms (FindLiveObjects: 2.863100 ms CreateObjectMapping: 3.977300 ms MarkObjects: 60.905200 ms  DeleteObjects: 0.120300 ms)
+
+The referenced script on this Behaviour (Game Object '!ftraceLightmaps') is missing!
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 46)
+UnloadTime: 0.429800 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 53300.
+Total: 94.748700 ms (FindLiveObjects: 6.018600 ms CreateObjectMapping: 4.049500 ms MarkObjects: 84.546200 ms  DeleteObjects: 0.134100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 46)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 53300.
+Total: 81.032100 ms (FindLiveObjects: 4.313000 ms CreateObjectMapping: 4.642100 ms MarkObjects: 71.964900 ms  DeleteObjects: 0.111300 ms)
+
+Material Sprites-Mask doesn't have _Stencil property
+
+Material Sprites-Mask doesn't have _Stencil property
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 26ac -> priority: 1 
+  Thread -> id: 1c4c -> priority: 1 
+  Thread -> id: 3508 -> priority: 1 
+  Thread -> id: 27c8 -> priority: 1 

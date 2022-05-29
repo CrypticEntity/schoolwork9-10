@@ -1,0 +1,440 @@
+﻿[INFO]:[ModManager] - Initializing
+[INFO]:[ModManager] - Initialized
+[INFO]:[API] - Loading ModdingApi Global Settings.
+[INFO]:[API] - Main menu loading
+[INFO]:[API] - Preloaded reflection in 291ms
+[INFO]:[API] - Trying to load mods
+[INFO]:[API] - Attempting to determine type of mod assemblies (library/mod/addon)
+[INFO]:[API] - Benchwarp - MOD
+[INFO]:[API] - HollowPoint - MOD
+[INFO]:[API] - ModCommon - MOD
+[INFO]:[API] - QoL - MOD
+[INFO]:[API] - RandomizerMod3.0 - MOD
+[INFO]:[API] - SereCore - LIBRARY
+[INFO]:[API] - Vasi - LIBRARY
+[INFO]:[SereCore] - Initializing
+[INFO]:[Benchwarp] - Initializing
+[INFO]:[Benchwarp] - Loading Global Settings
+[INFO]:[HollowPointInit] - Initializing
+[INFO]:[ModCommon] - Initializing
+[INFO]:[ModCommon] - Instantiating Mod
+[INFO]:[ModCommon] - Loading Global Settings
+[INFO]:[QoL] - Initializing
+[INFO]:[QoL] - Loading Global Settings
+[INFO]:[RandomizerMod] - Initializing
+[INFO]:[RandomizerMod] - Loading Global Settings
+[INFO]:[API] - Preloading
+[INFO]:[API] - Checking preloads for mod "ModCommon"
+[INFO]:[API] - Checking preloads for mod "SereCore"
+[INFO]:[API] - Checking preloads for mod "Hollow Point"
+[INFO]:[API] - Checking preloads for mod "RandomizerMod"
+[INFO]:[API] - Found object "Tutorial_01._Props/Chest/Item/Shiny Item (1)"
+[INFO]:[API] - Found object "Tutorial_01._Enemies/Crawler 1"
+[INFO]:[API] - Found object "Tutorial_01._Props/Cave Spikes (1)"
+[INFO]:[API] - Found object "Tutorial_01._Markers/Death Respawn Marker"
+[INFO]:[API] - Found object "Tutorial_01._Scenery/plat_float_17"
+[INFO]:[API] - Found object "Tutorial_01._Props/Tut_tablet_top"
+[INFO]:[API] - Found object "Tutorial_01._Props/Geo Rock 1"
+[INFO]:[API] - Found object "Cliffs_02.Soul Totem 5"
+[INFO]:[API] - Found object "Room_Jinn.Jinn NPC"
+[INFO]:[API] - Found object "Abyss_19.Grub Bottle/Grub"
+[INFO]:[API] - Found object "Abyss_19.Grub Bottle"
+[INFO]:[API] - Checking preloads for mod "Benchwarp"
+[INFO]:[API] - Found object "Crossroads_30.RestBench"
+[INFO]:[API] - Checking preloads for mod "QoL"
+[INFO]:[API] - Loading scene "Tutorial_01"
+[INFO]:[API] - Loading scene "Cliffs_02"
+[INFO]:[API] - Loading scene "Room_Jinn"
+[INFO]:[API] - Loading scene "Abyss_19"
+[INFO]:[API] - Loading scene "Crossroads_30"
+[INFO]:[API] - Fetching objects for mod "RandomizerMod"
+[INFO]:[API] - Fetching object "_Props/Chest/Item/Shiny Item (1)"
+[INFO]:[API] - Fetching object "_Enemies/Crawler 1"
+[INFO]:[API] - Fetching object "_Props/Cave Spikes (1)"
+[INFO]:[API] - Fetching object "_Markers/Death Respawn Marker"
+[INFO]:[API] - Fetching object "_Scenery/plat_float_17"
+[INFO]:[API] - Fetching object "_Props/Tut_tablet_top"
+[INFO]:[API] - Fetching object "_Props/Geo Rock 1"
+[INFO]:[API] - Fetching objects for mod "RandomizerMod"
+[INFO]:[API] - Fetching object "Soul Totem 5"
+[INFO]:[API] - Fetching objects for mod "RandomizerMod"
+[INFO]:[API] - Fetching object "Jinn NPC"
+[INFO]:[API] - Fetching objects for mod "RandomizerMod"
+[INFO]:[API] - Fetching object "Grub Bottle/Grub"
+[INFO]:[API] - Fetching object "Grub Bottle"
+[INFO]:[API] - Fetching objects for mod "Benchwarp"
+[INFO]:[API] - Fetching object "RestBench"
+[INFO]:[API] - Preload done, returning to main menu
+[INFO]:[API] - Main menu loading
+[INFO]:[API] - Loading ModdingApi Global Settings.
+[INFO]:[ModCommon] - Mod Common initializing!
+[INFO]:[ModCommon] - Global settings version match!
+[INFO]:[ModCommon] - Saving Global Settings
+[INFO]:[ModCommon] - Mod Common is done initializing!
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_rifle.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: glow.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: muzzleflash.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: sprite_bullet_soul.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: bulletCasingSprite.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: anim.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: heatbarsprite.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: bulletSpriteFade.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: heatbarspriteestimate.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: heatbarborder.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: exampletext.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: energybarborder.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: energybarsprite.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: specialbullet.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: lightflash.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: flarebullet.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: furybullet.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: shadebullet.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: shard.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_cardinal.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_omni.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_adrenaline5.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_adrenaline0.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_adrenaline1.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_adrenaline2.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_adrenaline3.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_adrenaline4.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: muzzleflashAlt.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_sniper.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_rifle_nohands.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_lmg.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_lmg_nohands.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_sniper_nohands.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_dmr.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_dmr_nohands.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_shotgun.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_shotgun_nohands.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_carbine.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_carbine_nohands.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_smg.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_smg_nohands.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: sprite_bullet_dagger.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: sprite_bullet_dung.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_cancastnailart_false.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_cancastnailart_true.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: sprite_bullet_voids.png
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_rifle.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemyhurt1.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemydead1.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemyhurt2.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemyhurt3.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemydead2.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemydead3.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.impact_01.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.impact_02.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.impact_03.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.impact_04.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.impact_05.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.draw.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.holster.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_shotgun.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_smg.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_sniper.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.divedetonate.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.divetrigger.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.firerocket.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.subsonicsfx.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.weapon_draw.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.weapon_holster.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.mortarclose.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.mortarexplosion.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.airstrikeinbound.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_flare.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.airstrikeend.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.airstrikerequest.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.cantfire.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.focussound.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.infusionsound.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_pistol.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemyhurt4.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemyhurt5.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemyhurt6.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_gatlinggun.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_carbine.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_lmg.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_dmr.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.sfx_daggerthrow_01.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.sfx_daggerthrow_02.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.sfx_daggerthrow_03.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.sfx_fireselect.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_shrapnel.wav
+[INFO]:[RandomizerMod] - Language xml processed
+[INFO]:[RandomizerMod] - Parsed items.xml in 0.2907657 seconds
+[INFO]:[Benchwarp] - Loaded image: ButtonRect
+[INFO]:[Benchwarp] - Loaded image: ButtonRectEmpty
+[INFO]:[Benchwarp] - Loaded image: ButtonsMenuBG
+[INFO]:[Benchwarp] - Loaded image: DropdownBG
+[INFO]:[API] - Saving Global Settings
+[INFO]:[FauxUIManager] - Loading Mod Menu
+[INFO]:[Benchwarp] - Loaded image: ButtonRect
+[INFO]:[Benchwarp] - Loaded image: ButtonRectEmpty
+[INFO]:[Benchwarp] - Loaded image: ButtonsMenuBG
+[INFO]:[Benchwarp] - Loaded image: DropdownBG
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'DM'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'NM'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'FS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'FC'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'SA'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'SM'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'BE'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'GW'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'SS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'GT'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'GP'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'LU'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'NS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'TA'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'QS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'LE'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'BR'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'MV'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'CQ'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'CT'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'CS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'WS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'KS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'PH'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'WW'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'GA'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'GR'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'HG'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'DS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'FT'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'BD'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'BT'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'HS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'NO'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'EC'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'CF'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'BB'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'PD'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'CG'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'RG'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'GM'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'QC'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'QT'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'QG'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'PE'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'PA'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'PB'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'UT'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'LT'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'LB'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'SB'
+[INFO]:[Benchwarp] - Loaded image: ButtonRect
+[INFO]:[Benchwarp] - Loaded image: ButtonRectEmpty
+[INFO]:[Benchwarp] - Loaded image: ButtonsMenuBG
+[INFO]:[Benchwarp] - Loaded image: DropdownBG
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'DM'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'NM'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'FS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'FC'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'SA'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'SM'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'BE'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'GW'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'SS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'GT'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'GP'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'LU'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'NS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'TA'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'QS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'LE'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'BR'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'MV'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'CQ'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'CT'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'CS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'WS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'KS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'PH'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'WW'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'GA'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'GR'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'HG'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'DS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'FT'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'BD'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'BT'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'HS'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'NO'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'EC'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'CF'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'BB'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'PD'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'CG'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'RG'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'GM'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'QC'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'QT'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'QG'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'PE'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'PA'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'PB'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'UT'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'LT'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'LB'
+[ERROR]:[Benchwarp] - duplicate binding for hotkey 'SB'
+[INFO]:[API] - Saving Global Settings
+[INFO]:[FauxUIManager] - Quitting Mod Menu
+[ERROR]:[UNITY] - NullReferenceException
+[ERROR]:[UNITY] - MenuButtonList.Start ()
+[ERROR]:[UNITY] - 
+[ERROR]:[UNITY] - NullReferenceException
+[ERROR]:[UNITY] - MenuButtonList.Start ()
+[ERROR]:[UNITY] - 
+[INFO]:[RandomizerMod] - Setting start location as King's Pass
+[INFO]:[RandomizerMod] - 
+[INFO]:[RandomizerMod] - Beginning transition randomization...
+[INFO]:[RandomizerMod] - Attaching start to graph...
+[INFO]:[RandomizerMod] - Beginning full placement of transitions...
+[INFO]:[RandomizerMod] - Placing last reserved transitions...
+[INFO]:[RandomizerMod] - All transitions placed? True
+[INFO]:[RandomizerMod] - Beginning transition placement validation...
+[INFO]:[RandomizerMod] - Validation successful.
+[INFO]:[RandomizerMod] - Transition randomization finished in 3.241827 seconds.
+[INFO]:[RandomizerMod] - 
+[INFO]:[RandomizerMod] - Beginning item randomization...
+[INFO]:[RandomizerMod] - Beginning first pass of item placement...
+[INFO]:[RandomizerMod] - Finished first update
+[INFO]:[RandomizerMod] - Beginning second pass of item placement...
+[INFO]:[RandomizerMod] - Beginning item placement validation...
+[INFO]:[RandomizerMod] - Validation successful.
+[INFO]:[RandomizerMod] - Item randomization finished in 1.0243156 seconds.
+[INFO]:[Benchwarp] - Adding settings to save file
+[INFO]:[ModCommon] - Adding settings to save file
+[INFO]:[RandomizerMod] - Adding settings to save file
+[INFO]:[Benchwarp] - Adding settings to save file
+[INFO]:[ModCommon] - Adding settings to save file
+[INFO]:[RandomizerMod] - Adding settings to save file
+[INFO]:[Benchwarp] - Adding settings to save file
+[INFO]:[ModCommon] - Adding settings to save file
+[INFO]:[RandomizerMod] - Adding settings to save file
+[INFO]:[Benchwarp] - Adding settings to save file
+[INFO]:[ModCommon] - Adding settings to save file
+[INFO]:[RandomizerMod] - Adding settings to save file
+[INFO]:[Benchwarp] - Adding settings to save file
+[INFO]:[ModCommon] - Adding settings to save file
+[INFO]:[RandomizerMod] - Adding settings to save file
+[INFO]:[Benchwarp] - Adding settings to save file
+[INFO]:[ModCommon] - Adding settings to save file
+[INFO]:[RandomizerMod] - Adding settings to save file
+[INFO]:[Benchwarp] - Adding settings to save file
+[INFO]:[ModCommon] - Adding settings to save file
+[INFO]:[RandomizerMod] - Adding settings to save file
+[INFO]:[Benchwarp] - Adding settings to save file
+[INFO]:[ModCommon] - Adding settings to save file
+[INFO]:[RandomizerMod] - Adding settings to save file
+[ERROR]:[UNITY] - NullReferenceException: Object reference not set to an instance of an object
+[ERROR]:[UNITY] - RandomizerMod.RandomizerMod.FixVoidHeart (On.PlayMakerFSM/orig_OnEnable,PlayMakerFSM) <0x0015f>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<PlayMakerFSM..OnEnable>?-1186865408 (PlayMakerFSM) <0x00049>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<PlayMakerFSM..OnEnable>?-1769072384 (PlayMakerFSM) <0x00014>
+[ERROR]:[UNITY] - RandomizerMod.CustomSkills.ShowSkillsInInventory (On.PlayMakerFSM/orig_OnEnable,PlayMakerFSM) <0x00019>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<PlayMakerFSM..OnEnable>?-1524180224 (PlayMakerFSM) <0x0002d>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<PlayMakerFSM..OnEnable>?678766720 (PlayMakerFSM) <0x00014>
+[ERROR]:[UNITY] - RandomizerMod.Actions.RandomizerAction.ProcessFSM (On.PlayMakerFSM/orig_OnEnable,PlayMakerFSM) <0x0005d>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<PlayMakerFSM..OnEnable>?-108516608 (PlayMakerFSM) <0x0002d>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<PlayMakerFSM..OnEnable>?1600898944 (PlayMakerFSM) <0x00014>
+[ERROR]:[UNITY] - RandomizerMod.SceneChanges.SceneEditor.FsmSceneEdits (On.PlayMakerFSM/orig_OnEnable,PlayMakerFSM) <0x0004f>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<PlayMakerFSM..OnEnable>?1760184320 (PlayMakerFSM) <0x0002d>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<PlayMakerFSM..OnEnable>?483143040 (PlayMakerFSM) <0x00014>
+[ERROR]:[UNITY] - RandomizerMod.SceneChanges.SceneEditor.ModifyFSM (On.PlayMakerFSM/orig_OnEnable,PlayMakerFSM) <0x000b5>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<PlayMakerFSM..OnEnable>?166445824 (PlayMakerFSM) <0x0002d>
+[ERROR]:[UNITY] - UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Actions.CreateObject:OnEnter()
+[ERROR]:[UNITY] - HutongGames.PlayMaker.FsmState:ActivateActions(Int32)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.FsmState:OnEnter()
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:EnterState(FsmState)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:SwitchState(FsmState)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:UpdateStateChanges()
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:DoTransition(FsmTransition, Boolean)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:ProcessEvent(FsmEvent, FsmEventData)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:Event(FsmEventTarget, FsmEvent)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:Event(FsmEvent)
+[ERROR]:[UNITY] - FSMUtility:SendEventToGameObject(GameObject, FsmEvent, Boolean)
+[ERROR]:[UNITY] - FSMUtility:SendEventToGameObject(GameObject, String, Boolean)
+[ERROR]:[UNITY] - HealthManager:Die(Nullable`1, AttackTypes, Boolean)
+[ERROR]:[UNITY] - HealthManager:TakeDamage(HitInstance)
+[ERROR]:[UNITY] - HealthManager:Hit(HitInstance)
+[ERROR]:[UNITY] - HitTaker:Hit(GameObject, HitInstance, Int32)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Actions.TakeDamage:OnEnter()
+[ERROR]:[UNITY] - HutongGames.PlayMaker.FsmState:ActivateActions(Int32)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.FsmState:OnEnter()
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:EnterState(FsmState)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:SwitchState(FsmState)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:UpdateStateChanges()
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:DoTransition(FsmTransition, Boolean)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:ProcessEvent(FsmEvent, FsmEventData)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:Event(FsmEventTarget, FsmEvent)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:Event(FsmEvent)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Actions.Trigger2dEvent:DoTriggerEnter2D(Collider2D)
+[ERROR]:[UNITY] - PlayMakerUnity2DProxy:OnTriggerEnter2D(Collider2D)
+[ERROR]:[UNITY] - 
+[ERROR]:[UNITY] - NullReferenceException: Object reference not set to an instance of an object
+[ERROR]:[UNITY] - RandomizerMod.RandomizerMod.FixVoidHeart (On.PlayMakerFSM/orig_OnEnable,PlayMakerFSM) <0x0015f>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<PlayMakerFSM..OnEnable>?-1186865408 (PlayMakerFSM) <0x00049>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<PlayMakerFSM..OnEnable>?-1769072384 (PlayMakerFSM) <0x00014>
+[ERROR]:[UNITY] - RandomizerMod.CustomSkills.ShowSkillsInInventory (On.PlayMakerFSM/orig_OnEnable,PlayMakerFSM) <0x00019>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<PlayMakerFSM..OnEnable>?-1524180224 (PlayMakerFSM) <0x0002d>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<PlayMakerFSM..OnEnable>?678766720 (PlayMakerFSM) <0x00014>
+[ERROR]:[UNITY] - RandomizerMod.Actions.RandomizerAction.ProcessFSM (On.PlayMakerFSM/orig_OnEnable,PlayMakerFSM) <0x0005d>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<PlayMakerFSM..OnEnable>?-108516608 (PlayMakerFSM) <0x0002d>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<PlayMakerFSM..OnEnable>?1600898944 (PlayMakerFSM) <0x00014>
+[ERROR]:[UNITY] - RandomizerMod.SceneChanges.SceneEditor.FsmSceneEdits (On.PlayMakerFSM/orig_OnEnable,PlayMakerFSM) <0x0004f>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<PlayMakerFSM..OnEnable>?1760184320 (PlayMakerFSM) <0x0002d>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<PlayMakerFSM..OnEnable>?483143040 (PlayMakerFSM) <0x00014>
+[ERROR]:[UNITY] - RandomizerMod.SceneChanges.SceneEditor.ModifyFSM (On.PlayMakerFSM/orig_OnEnable,PlayMakerFSM) <0x000b5>
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<PlayMakerFSM..OnEnable>?166445824 (PlayMakerFSM) <0x0002d>
+[ERROR]:[UNITY] - UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Actions.CreateObject:OnEnter()
+[ERROR]:[UNITY] - HutongGames.PlayMaker.FsmState:ActivateActions(Int32)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.FsmState:OnEnter()
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:EnterState(FsmState)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:SwitchState(FsmState)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:UpdateStateChanges()
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:DoTransition(FsmTransition, Boolean)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:ProcessEvent(FsmEvent, FsmEventData)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:Event(FsmEventTarget, FsmEvent)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:Event(FsmEvent)
+[ERROR]:[UNITY] - FSMUtility:SendEventToGameObject(GameObject, FsmEvent, Boolean)
+[ERROR]:[UNITY] - FSMUtility:SendEventToGameObject(GameObject, String, Boolean)
+[ERROR]:[UNITY] - HealthManager:Die(Nullable`1, AttackTypes, Boolean)
+[ERROR]:[UNITY] - HealthManager:TakeDamage(HitInstance)
+[ERROR]:[UNITY] - HealthManager:Hit(HitInstance)
+[ERROR]:[UNITY] - HitTaker:Hit(GameObject, HitInstance, Int32)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Actions.TakeDamage:OnEnter()
+[ERROR]:[UNITY] - HutongGames.PlayMaker.FsmState:ActivateActions(Int32)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.FsmState:OnEnter()
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:EnterState(FsmState)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:SwitchState(FsmState)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:UpdateStateChanges()
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:DoTransition(FsmTransition, Boolean)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:ProcessEvent(FsmEvent, FsmEventData)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:Event(FsmEventTarget, FsmEvent)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Fsm:Event(FsmEvent)
+[ERROR]:[UNITY] - HutongGames.PlayMaker.Actions.Trigger2dEvent:DoTriggerEnter2D(Collider2D)
+[ERROR]:[UNITY] - PlayMakerUnity2DProxy:OnTriggerEnter2D(Collider2D)
+[ERROR]:[UNITY] - 
+[INFO]:[Benchwarp] - Adding settings to save file
+[INFO]:[ModCommon] - Adding settings to save file
+[INFO]:[RandomizerMod] - Adding settings to save file
+[INFO]:[Benchwarp] - Adding settings to save file
+[INFO]:[ModCommon] - Adding settings to save file
+[INFO]:[RandomizerMod] - Adding settings to save file
+[INFO]:[Benchwarp] - Adding settings to save file
+[INFO]:[ModCommon] - Adding settings to save file
+[INFO]:[RandomizerMod] - Adding settings to save file
+[INFO]:[Benchwarp] - Adding settings to save file
+[INFO]:[ModCommon] - Adding settings to save file
+[INFO]:[RandomizerMod] - Adding settings to save file
+[INFO]:[API] - Main menu loading
+[INFO]:[API] - Saving Global Settings
+[INFO]:[Benchwarp] - Saving Global Settings
+[INFO]:[QoL] - Saving Global Settings
+[INFO]:[RandomizerMod] - Saving Global Settings
+[INFO]:[Benchwarp] - Saving Global Settings

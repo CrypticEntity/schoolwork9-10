@@ -1,0 +1,13 @@
+{
+  "BoolValues": {
+    "NPCItemDialogue": true,
+    "RecentItems": true,
+    "ReducePreloads": true
+  },
+  "FloatValues": {},
+  "IntValues": {},
+  "StringValues": {},
+  "NPCItemDialogue": true,
+  "RecentItems": true,
+  "ReducePreloads": true
+}
