@@ -1,0 +1,603 @@
+Randomization completed with seed: 206055858
+
+PROGRESSION ITEMS
+(2) Grub-Soul Sanctum<---at--->Dirtmouth Stag
+(3) Love Key<---at--->Grub-Crossroads Stag
+(7) Crystal Heart<---at--->Vengeful Spirit
+(11) Whispering Root-Mantis Village<---at--->Iselda [1 Geo]
+(11) Tram Pass<---at--->Iselda [200 Geo]
+(14) Hidden Station Stag<---at--->Crossroads Stag [50 Geo]
+(15) Stag Nest Stag<---at--->Hidden Station Stag [300 Geo]
+(16) Dream Nail<---at--->Charm Notch-Shrumal Ogres
+(19) Grub-Fungal Bouncy<---at--->Grub-Greenpath Cornifer
+(22) Grub-Fog Canyon<---at--->Hallownest Seal-Greenpath
+(26) Grub-Deepnest Spike<---at--->Grub-Fungal Bouncy
+(29) Resting Grounds Stag<---at--->Stag Nest Stag [300 Geo]
+(30) Joni's Blessing<---at--->Whispering Root-Resting Grounds
+(31) Whispering Root-Deepnest<---at--->Boss Geo-Vengefly King
+(33) Greenpath Stag<---at--->King's Idol-Cliffs
+(34) Shade Cloak<---at--->Boss Essence-Gorb
+(37) Grub-Crystal Peak Crushers<---at--->Dream Nail
+(38) Desolate Dive<---at--->Grub-Howling Cliffs
+(42) Grub-Resting Grounds<---at--->Grub-King's Station
+(50) Queen's Gardens Stag<---at--->Vessel Fragment-City
+(52) Grub-Collector 2<---at--->Mantis Claw
+(53) Boss Essence-White Defender<---at--->Rancid Egg-Grubs [4 Grub]
+(56) Cyclone Slash<---at--->Simple Key-Basin
+(57) Simple Key-Basin<---at--->Grub-Greenpath Stag
+(58) Grub-Collector 1<---at--->Cyclone Slash
+(60) Grub-Crossroads Stag<---at--->Resting Grounds Stag
+(61) Grub-Greenpath Journal<---at--->Grubsong [5 Grub]
+(63) Grubberfly's Elegy<---at--->Boss Essence-Elder Hu
+(64) Grub-Greenpath MMC<---at--->Dream Wielder [6 Essence]
+(66) Great Slash<---at--->Rancid Egg-Crystal Peak Dark Room
+(67) Dash Slash<---at--->Mask Shard-5 Grubs [9 Grub]
+(69) Grimmchild<---at--->City Crest
+(71) Whispering Root-Ancestral Mound<---at--->Crossroads Map [30 Geo]
+(73) Boss Essence-Elder Hu<---at--->Grub-Greenpath Journal
+(74) Sharp Shadow<---at--->Pale Ore-Seer [320 Essence]
+(76) King's Brand<---at--->Boss Geo-Massive Moss Charger
+(77) Grub-Waterways Main<---at--->Lifeblood Core
+(78) Grub-Waterways Requires Tram<---at--->Grimmchild
+(83) Elegant Key<---at--->Grub-Crossroads Center
+(84) Lurien<---at--->Leg Eater [180 Geo]
+(84) Isma's Tear<---at--->Leg Eater [410 Geo]
+(85) Abyss Shriek<---at--->Rancid Egg-Blue Lake
+(86) Whispering Root-Howling Cliffs<---at--->Glowing Womb
+(88) Boss Essence-Lost Kin<---at--->Abyss Shriek [1 Wraiths]
+(90) Lumafly Lantern<---at--->Mask Shard-Seer [807 Essence]
+(91) Mothwing Cloak (1)<---at--->Hallownest Seal-Seer [682 Essence]
+(92) Howling Wraiths (1)<---at--->Arcane Egg-Seer [649 Essence]
+(93) Grub-Beast's Den<---at--->Grub-Crossroads Guarded
+(95) Whispering Root-Waterways<---at--->Rancid Egg-Waterways Main
+(97) Lifeblood Core<---at--->Rancid Egg-Waterways West Bluggsac
+(99) Grub-Howling Cliffs<---at--->Grub-Queen's Gardens Stag
+(100) Boss Essence-Markoth<---at--->Queen's Gardens Stag [200 Geo]
+(101) Distant Village Stag<---at--->Vessel Fragment-Seer [730 Essence]
+(102) Monomon<---at--->Hallownest Seal-Beast's Den
+(103) Mothwing Cloak<---at--->Distant Village Stag [250 Geo]
+(105) Boss Essence-Soul Tyrant<---at--->Boss Essence-Marmu
+(106) Grub-Deepnest Mimic<---at--->Whispering Root-Howling Cliffs
+(107) Dirtmouth Stag<---at--->Hallownest Seal-Crossroads Well
+(110) Grub-Deepnest Nosk<---at--->Rancid Egg-Crystal Peak Dive Entrance
+(112) Grub-Crystal Peak Spike<---at--->Wanderer's Journal-Kingdom's Edge Requires Dive
+(113) Grub-Crystal Peak Below Chest<---at--->Whispering Root-Leg Eater
+(115) Glowing Womb<---at--->Rancid Egg-Queen's Gardens
+(116) Grub-Crystal Heart<---at--->Dash Slash [800 Geo]
+(117) City Storerooms Stag<---at--->Love Key
+(120) Spore Shroom<---at--->Mask Shard-Stone Sanctuary
+(122) Shopkeeper's Key<---at--->Grub-Kingdom's Edge Camp
+(123) Grub-Crystal Peak Mimic<---at--->Grub-City of Tears Left
+(130) Grub-City of Tears Guarded<---at--->Boss Essence-Markoth
+(131) Grub-Greenpath Cornifer<---at--->Sharp Shadow
+(132) Mantis Claw<---at--->Wanderer's Journal-City Storerooms
+(133) Grub-Crossroads Center<---at--->Pale Ore-Nosk
+(134) Whispering Root-Queens Gardens<---at--->Grub-Soul Sanctum
+(136) Grub-King's Station<---at--->Grub-Hive External
+(137) Grub-Hive External<---at--->Charm Notch-Fog Canyon
+(138) Boss Essence-Gorb<---at--->Whispering Root-Hive
+(139) Grub-City of Tears Left<---at--->Whispering Root-Waterways
+(141) Dashmaster<---at--->160 Geo-Weavers Den Chest
+(143) Whispering Root-Hive<---at--->Whispering Root-Crossroads
+(144) Dream Gate<---at--->Grub-Beast's Den
+(145) City Crest<---at--->Awoken Dream Nail [1631 Essence]
+(150) Descending Dark<---at--->Pale Ore-Colosseum
+(152) Boss Essence-Galien<---at--->Hallownest Seal-Queen's Gardens
+(154) Howling Wraiths<---at--->Whispering Root-Mantis Village
+(155) Sprintmaster<---at--->King's Idol-Dung Defender
+(156) Grub-Fungal Spore Shroom<---at--->Grub-Collector 2
+(159) Void Heart (1)<---at--->Shopkeeper's Key
+(160) King Fragment<---at--->Grub-Collector 3
+(162) Grub-Basin Requires Wings<---at--->Wanderer's Journal-Resting Grounds Catacombs
+(167) Simple Key-Sly<---at--->Rancid Egg-Crystal Peak Tall Room
+(169) Whispering Root-Crystal Peak<---at--->Royal Waterways Map [75 Geo]
+(170) Grub-Greenpath Stag<---at--->Grub-Watcher's Spire
+(171) Grub-Hive Internal<---at--->Boss Essence-Lost Kin
+(172) Boss Essence-Marmu<---at--->Lurien [1 Dreamnail]
+(174) Grub-Basin Requires Dive<---at--->Whispering Root-Queens Gardens
+(177) Mantis Claw (1)<---at--->Mask Shard-Bretta
+(178) King's Station Stag<---at--->Grub-Crystal Peak Spike
+(179) Grub-Queen's Gardens Stag<---at--->Arcane Egg-Shade Cloak
+(181) Dream Nail (1)<---at--->Wanderer's Journal-Fungal Wastes Thorns Gauntlet
+(182) Whispering Root-Kingdoms Edge<---at--->Herrah [1 Dreamnail]
+(185) Void Heart<---at--->Whispering Root-Spirits Glade
+(191) Grub-Kingdom's Edge Oro<---at--->Arcane Egg-Birthplace
+(193) Whispering Root-City<---at--->Simple Key-Lurker
+(196) Whispering Root-Resting Grounds<---at--->Wanderer's Journal-Above Mantis Village
+(197) Grub-Queen's Gardens Top<---at--->Mark of Pride
+(198) Mark of Pride<---at--->Deepnest Map-Right [Gives Quill] [38 Geo]
+(199) Boss Essence-Failed Champion<---at--->Mask Shard-Hive
+(201) Whispering Root-Greenpath<---at--->Void Heart [1 Dreamnail]
+(202) Grub-Crossroads Guarded<---at--->Grub-Queen's Gardens Top
+(203) Simple Key-Lurker<---at--->Boss Essence-Galien
+(204) Boss Essence-Xero<---at--->Wanderer's Journal-Crystal Peak Crawlers
+(208) Crossroads Stag<---at--->Descending Dark
+(209) Grub-Kingdom's Edge Camp<---at--->Grub-Waterways Requires Tram
+(210) Whispering Root-Leg Eater<---at--->Rancid Egg-Sheo
+(212) Boss Essence-No Eyes<---at--->Grub-Queen's Gardens Marmu
+(213) Weaversong<---at--->Queen's Gardens Map [150 Geo]
+(214) Queen Fragment<---at--->80 Geo-Crystal Peak Chest
+(215) Dreamer (1)<---at--->King's Idol-Glade of Hope
+(225) Boss Essence-Grey Prince Zote<---at--->Weaversong
+(227) Shade Soul<---at--->Collector's Map
+(231) Herrah<---at--->655 Geo-Watcher Knights Chest
+(232) Whispering Root-Crossroads<---at--->World Sense
+(234) Grub-Watcher's Spire<---at--->620 Geo-Mantis Lords Chest
+(237) Vengeful Spirit (1)<---at--->380 Geo-Soul Master Chest
+(239) Grub-Collector 3<---at--->Desolate Dive
+(240) Grub-Hallownest Crown<---at--->Rancid Egg-Weaver's Den
+(241) Desolate Dive (1)<---at--->Spell Twister
+(242) Grub-Crystallized Mound<---at--->King's Idol-Pale Lurker
+(244) Simple Key-City<---at--->Grub-Kingdom's Edge Oro
+(245) Crystal Heart (1)<---at--->Rancid Egg-City of Tears Pleasure House
+(247) Vengeful Spirit<---at--->Wanderer's Journal-Pleasure House
+(248) Whispering Root-Spirits Glade<---at--->Shade Cloak
+(250) Lifeblood Heart<---at--->Monomon [1 Dreamnail]
+(251) Grub-Waterways East<---at--->Whispering Root-Crystal Peak
+(256) Monarch Wings<---at--->Grub-Crystal Heart
+(259) Monarch Wings (1)<---at--->Boss Geo-Enraged Guardian
+(260) Grub-Queen's Gardens Marmu<---at--->Boss Essence-Grey Prince Zote
+(262) Grub-Crossroads Spike<---at--->Hallownest Seal-Queen's Station
+(263) Awoken Dream Nail<---at--->Grub-Basin Requires Wings
+(265) Isma's Tear (1)<---at--->Grub-Hive Internal
+(266) Grub-Dark Deepnest<---at--->King Fragment
+(268) Grub-Crossroads Acid<---at--->Wanderer's Journal-Kingdom's Edge Entrance
+(269) Queen's Station Stag<---at--->Boss Essence-White Defender
+(271) Shade Cloak (1)<---at--->Boss Essence-Failed Champion
+
+ALL ITEMS
+
+Forgotten Crossroads:
+(1) Arcane Egg-Shade Cloak<---at--->Mask Shard-Crossroads Goam
+(3) Love Key<---at--->Grub-Crossroads Stag
+(4) Fungal Wastes Map<---at--->Boss Geo-Gruz Mother
+(5) Hallownest Seal-Beast's Den<---at--->Grub-Crossroads Spike
+(6) Charm Notch-Colosseum<---at--->200 Geo-False Knight Chest
+(9) Flukenest<---at--->Mask Shard-Brooding Mawlek
+(10) Vessel Fragment-City<---at--->Grub-Crossroads Acid
+(14) Hidden Station Stag<---at--->Crossroads Stag [50 Geo]
+(53) Boss Essence-White Defender<---at--->Rancid Egg-Grubs [4 Grub]
+(54) Boss Geo-Massive Moss Charger<---at--->Grubberfly's Elegy [5 Grub]
+(61) Grub-Greenpath Journal<---at--->Grubsong [5 Grub]
+(67) Dash Slash<---at--->Mask Shard-5 Grubs [9 Grub]
+(69) Grimmchild<---at--->City Crest
+(71) Whispering Root-Ancestral Mound<---at--->Crossroads Map [30 Geo]
+(79) Rancid Egg-Crystal Peak Dark Room<---at--->Hallownest Seal-Grubs [10 Grub]
+(83) Elegant Key<---at--->Grub-Crossroads Center
+(86) Whispering Root-Howling Cliffs<---at--->Glowing Womb
+(93) Grub-Beast's Den<---at--->Grub-Crossroads Guarded
+(107) Dirtmouth Stag<---at--->Hallownest Seal-Crossroads Well
+(128) Collector's Map<---at--->Vessel Fragment-Crossroads
+(143) Whispering Root-Hive<---at--->Whispering Root-Crossroads
+(168) Mask Shard-Crossroads Goam<---at--->Pale Ore-Grubs [23 Grub]
+(183) Rancid Egg-City of Tears Left<---at--->King's Idol-Grubs [23 Grub]
+(271) Shade Cloak (1)<---at--->Boss Essence-Failed Champion
+
+Dirtmouth:
+(2) Grub-Soul Sanctum<---at--->Dirtmouth Stag
+(68) Boss Geo-Elegant Soul Warrior<---at--->Nailmaster's Glory
+(78) Grub-Waterways Requires Tram<---at--->Grimmchild
+(89) Hallownest Seal-King's Station<---at--->Charm Notch-Grimm
+(177) Mantis Claw (1)<---at--->Mask Shard-Bretta
+(260) Grub-Queen's Gardens Marmu<---at--->Boss Essence-Grey Prince Zote
+
+Ancestral Mound:
+(7) Crystal Heart<---at--->Vengeful Spirit
+(41) Steady Body<---at--->Soul Catcher
+(164) Wanderer's Journal-Resting Grounds Catacombs<---at--->Whispering Root-Ancestral Mound
+
+King's Pass:
+(8) Hallownest Seal-City Rafters<---at--->Fury of the Fallen
+
+(11) Iselda:
+Whispering Root-Mantis Village [1 Geo]
+Tram Pass [200 Geo]
+Shape of Unn [420 Geo]
+Fog Canyon Map [140 Geo]
+Pale Ore-Crystal Peak [510 Geo]
+Arcane Egg-Birthplace [310 Geo]
+Pale Ore-Nosk [330 Geo]
+
+(12) Sly:
+Shaman Stone [480 Geo]
+King's Idol-Cliffs [180 Geo]
+Charm Notch-Fog Canyon [1290 Geo]
+Ancient Basin Map [500 Geo]
+Rancid Egg-Fungal Core [660 Geo]
+Pale Ore-Basin [1470 Geo]
+Hallownest Seal-Resting Grounds Catacombs [190 Geo]
+
+(13) Salubra:
+Rancid Egg-Dark Deepnest [400 Geo]
+Mask Shard-Brooding Mawlek [320 Geo]
+Wanderer's Journal-Cliffs [430 Geo]
+Crystal Peak Map [380 Geo]
+200 Geo-False Knight Chest [1 Geo]
+Mask Shard-Deepnest [940 Geo]
+Wanderer's Journal-Pleasure House [230 Geo]
+
+Palace Grounds:
+(15) Stag Nest Stag<---at--->Hidden Station Stag [300 Geo]
+(266) Grub-Dark Deepnest<---at--->King Fragment
+
+Fungal Wastes:
+(16) Dream Nail<---at--->Charm Notch-Shrumal Ogres
+(24) Kingdom's Edge Map<---at--->Hallownest Seal-Fungal Wastes Sporgs
+(26) Grub-Deepnest Spike<---at--->Grub-Fungal Bouncy
+(32) Mask Shard-Queen's Station<---at--->Fungal Wastes Map [75 Geo]
+(63) Grubberfly's Elegy<---at--->Boss Essence-Elder Hu
+(113) Grub-Crystal Peak Below Chest<---at--->Whispering Root-Leg Eater
+(119) Fragile Heart<---at--->Grub-Fungal Spore Shroom
+(154) Howling Wraiths<---at--->Whispering Root-Mantis Village
+(181) Dream Nail (1)<---at--->Wanderer's Journal-Fungal Wastes Thorns Gauntlet
+(196) Whispering Root-Resting Grounds<---at--->Wanderer's Journal-Above Mantis Village
+(228) Hallownest Seal-Fungal Wastes Sporgs<---at--->Spore Shroom
+
+Queen's Station:
+(17) Mask Shard-Waterways<---at--->Queen's Station Stag [120 Geo]
+(165) 150 Geo-Resting Grounds Chest<---at--->Mask Shard-Queen's Station
+(262) Grub-Crossroads Spike<---at--->Hallownest Seal-Queen's Station
+
+Greenpath:
+(18) Rancid Egg-City of Tears Pleasure House<---at--->Mothwing Cloak
+(19) Grub-Fungal Bouncy<---at--->Grub-Greenpath Cornifer
+(20) King's Idol-Grubs<---at--->Greenpath Map [60 Geo]
+(21) 655 Geo-Watcher Knights Chest<---at--->85 Geo-Greenpath Chest
+(22) Grub-Fog Canyon<---at--->Hallownest Seal-Greenpath
+(23) Rancid Egg-Blue Lake<---at--->Wanderer's Journal-Greenpath Stag
+(28) Royal Waterways Map<---at--->Greenpath Stag [140 Geo]
+(31) Whispering Root-Deepnest<---at--->Boss Geo-Vengefly King
+(57) Simple Key-Basin<---at--->Grub-Greenpath Stag
+(72) Charm Notch-Shrumal Ogres<---at--->Grub-Greenpath MMC
+(73) Boss Essence-Elder Hu<---at--->Grub-Greenpath Journal
+(76) King's Brand<---at--->Boss Geo-Massive Moss Charger
+(104) Fragile Greed<---at--->Thorns of Agony
+(140) Rancid Egg-Crystal Peak Dive Entrance<---at--->Wanderer's Journal-Greenpath Lower
+(146) Hallownest Seal-Crossroads Well<---at--->Great Slash
+(210) Whispering Root-Leg Eater<---at--->Rancid Egg-Sheo
+(253) Quick Focus<---at--->Whispering Root-Greenpath
+(270) Dream Wielder<---at--->Vessel Fragment-Greenpath
+
+Fog Canyon:
+(25) Deepnest Map-Upper<---at--->Hallownest Seal-Fog Canyon West
+(111) Quick Slash<---at--->Hallownest Seal-Fog Canyon East
+(118) Arcane Egg-Seer<---at--->Grub-Fog Canyon
+(137) Grub-Hive External<---at--->Charm Notch-Fog Canyon
+(235) Wanderer's Journal-Kingdom's Edge Requires Dive<---at--->Fog Canyon Map [150 Geo]
+
+Howling Cliffs:
+(27) Rancid Egg-Upper Kingdom's Edge<---at--->Howling Cliffs Map [75 Geo]
+(33) Greenpath Stag<---at--->King's Idol-Cliffs
+(34) Shade Cloak<---at--->Boss Essence-Gorb
+(38) Desolate Dive<---at--->Grub-Howling Cliffs
+(46) King's Idol-Crystal Peak<---at--->Baldur Shell
+(51) Spell Twister<---at--->Wanderer's Journal-Cliffs
+(58) Grub-Collector 1<---at--->Cyclone Slash
+(106) Grub-Deepnest Mimic<---at--->Whispering Root-Howling Cliffs
+(108) Hallownest Seal-Deepnest By Mantis Lords<---at--->Joni's Blessing
+
+Stag Nest:
+(29) Resting Grounds Stag<---at--->Stag Nest Stag [300 Geo]
+(36) Grubsong<---at--->Vessel Fragment-Stag Nest
+
+Resting Grounds:
+(30) Joni's Blessing<---at--->Whispering Root-Resting Grounds
+(35) Hallownest Seal-Greenpath<---at--->Boss Essence-Xero
+(37) Grub-Crystal Peak Crushers<---at--->Dream Nail
+(48) Howling Cliffs Map<---at--->150 Geo-Resting Grounds Chest
+(59) Hallownest Seal-Fog Canyon West<---at--->Resting Grounds Map [56 Geo]
+(60) Grub-Crossroads Stag<---at--->Resting Grounds Stag
+(64) Grub-Greenpath MMC<---at--->Dream Wielder [6 Essence]
+(70) Rancid Egg-Waterways Main<---at--->Dreamshield
+(74) Sharp Shadow<---at--->Pale Ore-Seer [320 Essence]
+(75) King's Idol-Deepnest<---at--->Dream Gate [357 Essence]
+(80) Rancid Egg-Crystal Peak Tall Room<---at--->Hallownest Seal-Resting Grounds Catacombs
+(90) Lumafly Lantern<---at--->Mask Shard-Seer [807 Essence]
+(91) Mothwing Cloak (1)<---at--->Hallownest Seal-Seer [682 Essence]
+(92) Howling Wraiths (1)<---at--->Arcane Egg-Seer [649 Essence]
+(101) Distant Village Stag<---at--->Vessel Fragment-Seer [730 Essence]
+(145) City Crest<---at--->Awoken Dream Nail [1631 Essence]
+(162) Grub-Basin Requires Wings<---at--->Wanderer's Journal-Resting Grounds Catacombs
+(221) Vessel Fragment-Stag Nest<---at--->Soul Eater
+(238) Vessel Fragment-Seer<---at--->Grub-Resting Grounds
+(264) Hallownest Seal-Watcher Knight<---at--->Mask Shard-Grey Mourner
+
+Ancient Basin:
+(39) Rancid Egg-Waterways West Bluggsac<---at--->Grub-Basin Requires Dive
+(40) King's Idol-Pale Lurker<---at--->Wanderer's Journal-Ancient Basin
+(45) Arcane Egg-Lifeblood Core<---at--->Pale Ore-Basin
+(56) Cyclone Slash<---at--->Simple Key-Basin
+(81) 380 Geo-Soul Master Chest<---at--->Ancient Basin Map [112 Geo]
+(171) Grub-Hive Internal<---at--->Boss Essence-Lost Kin
+(176) Vessel Fragment-Sly1<---at--->Monarch Wings
+(255) Wanderer's Journal-Crystal Peak Crawlers<---at--->Vessel Fragment-Basin [3000 Geo]
+(263) Awoken Dream Nail<---at--->Grub-Basin Requires Wings
+
+King's Station:
+(42) Grub-Resting Grounds<---at--->Grub-King's Station
+(44) Rancid Egg-Near Quick Slash<---at--->Wanderer's Journal-King's Station
+(50) Queen's Gardens Stag<---at--->Vessel Fragment-City
+(82) Defender's Crest<---at--->King's Station Stag [300 Geo]
+(157) Mask Shard-Enraged Guardian<---at--->Hallownest Seal-King's Station
+
+City of Tears:
+(43) Rancid Egg-Grubs<---at--->Grub-City of Tears Guarded
+(47) Hallownest Seal-Grubs<---at--->Hallownest Seal-City Rafters
+(49) Heavy Blow<---at--->Rancid Egg-City of Tears Left
+(65) Nailmaster's Glory<---at--->Boss Geo-Gorgeous Husk
+(123) Grub-Crystal Peak Mimic<---at--->Grub-City of Tears Left
+(124) Dreamshield<---at--->Whispering Root-City
+(126) Rancid Egg-Beast's Den<---at--->City of Tears Map [90 Geo]
+(127) Boss Geo-Vengefly King<---at--->Simple Key-City
+(129) Hallownest Seal-Mantis Lords<---at--->City Storerooms Stag [200 Geo]
+(132) Mantis Claw<---at--->Wanderer's Journal-City Storerooms
+(147) Boss Geo-Enraged Guardian<---at--->Boss Geo-Elegant Soul Warrior
+(170) Grub-Greenpath Stag<---at--->Grub-Watcher's Spire
+(172) Boss Essence-Marmu<---at--->Lurien [1 Dreamnail]
+(190) Wanderer's Journal-King's Station<---at--->Hallownest Seal-Watcher Knight
+(217) 85 Geo-Greenpath Chest<---at--->Shade Soul
+(231) Herrah<---at--->655 Geo-Watcher Knights Chest
+
+Mantis Village:
+(52) Grub-Collector 2<---at--->Mantis Claw
+(55) Mask Shard-Sly1<---at--->Dashmaster
+(197) Grub-Queen's Gardens Top<---at--->Mark of Pride
+(206) Rancid Egg-Queen's Gardens<---at--->Hallownest Seal-Mantis Lords
+(234) Grub-Watcher's Spire<---at--->620 Geo-Mantis Lords Chest
+
+Kingdom's Edge:
+(62) Baldur Shell<---at--->Kingdom's Edge Map [112 Geo]
+(112) Grub-Crystal Peak Spike<---at--->Wanderer's Journal-Kingdom's Edge Requires Dive
+(116) Grub-Crystal Heart<---at--->Dash Slash [800 Geo]
+(122) Shopkeeper's Key<---at--->Grub-Kingdom's Edge Camp
+(130) Grub-City of Tears Guarded<---at--->Boss Essence-Markoth
+(135) Resting Grounds Map<---at--->Rancid Egg-Near Quick Slash
+(175) Boss Geo-Crystal Guardian<---at--->Wanderer's Journal-Kingdom's Edge Camp
+(187) Wanderer's Journal-Greenpath Lower<---at--->King's Idol-Great Hopper
+(188) Hallownest Seal-Queen's Station<---at--->Whispering Root-Kingdoms Edge
+(193) Whispering Root-City<---at--->Simple Key-Lurker
+(194) Crossroads Map<---at--->Quick Slash
+(242) Grub-Crystallized Mound<---at--->King's Idol-Pale Lurker
+(244) Simple Key-City<---at--->Grub-Kingdom's Edge Oro
+(252) Stalwart Shell<---at--->Rancid Egg-Upper Kingdom's Edge
+(268) Grub-Crossroads Acid<---at--->Wanderer's Journal-Kingdom's Edge Entrance
+
+Crystal Peak:
+(66) Great Slash<---at--->Rancid Egg-Crystal Peak Dark Room
+(110) Grub-Deepnest Nosk<---at--->Rancid Egg-Crystal Peak Dive Entrance
+(142) 160 Geo-Weavers Den Chest<---at--->Grub-Hallownest Crown
+(159) Void Heart (1)<---at--->Shopkeeper's Key
+(167) Simple Key-Sly<---at--->Rancid Egg-Crystal Peak Tall Room
+(178) King's Station Stag<---at--->Grub-Crystal Peak Spike
+(192) 620 Geo-Mantis Lords Chest<---at--->Grub-Crystal Peak Mimic
+(204) Boss Essence-Xero<---at--->Wanderer's Journal-Crystal Peak Crawlers
+(214) Queen Fragment<---at--->80 Geo-Crystal Peak Chest
+(220) Rancid Egg-Waterways West Pickup<---at--->Grub-Crystal Peak Crushers
+(222) Vessel Fragment-Deepnest<---at--->King's Idol-Crystal Peak
+(224) Wanderer's Journal-Above Mantis Village<---at--->Deep Focus
+(226) Boss Geo-Gruz Mother<---at--->Crystal Peak Map [112 Geo]
+(229) Wanderer's Journal-City Storerooms<---at--->Crystal Heart
+(230) Wanderer's Journal-Ancient Basin<---at--->Grub-Crystal Peak Below Chest
+(251) Grub-Waterways East<---at--->Whispering Root-Crystal Peak
+(254) Mask Shard-Hive<---at--->Boss Geo-Crystal Guardian
+(256) Monarch Wings<---at--->Grub-Crystal Heart
+(257) King's Idol-Glade of Hope<---at--->Mask Shard-Enraged Guardian
+(259) Monarch Wings (1)<---at--->Boss Geo-Enraged Guardian
+
+Abyss:
+(77) Grub-Waterways Main<---at--->Lifeblood Core
+(88) Boss Essence-Lost Kin<---at--->Abyss Shriek [1 Wraiths]
+(173) King's Idol-Great Hopper<---at--->Arcane Egg-Lifeblood Core
+(179) Grub-Queen's Gardens Stag<---at--->Arcane Egg-Shade Cloak
+(191) Grub-Kingdom's Edge Oro<---at--->Arcane Egg-Birthplace
+(201) Whispering Root-Greenpath<---at--->Void Heart [1 Dreamnail]
+(248) Whispering Root-Spirits Glade<---at--->Shade Cloak
+
+(84) Leg Eater:
+Lurien [180 Geo]
+Isma's Tear [410 Geo]
+Mask Shard-Grey Mourner [980 Geo]
+Deepnest Map-Right [Gives Quill] [220 Geo]
+Queen's Gardens Map [470 Geo]
+Pale Ore-Grubs [1020 Geo]
+Mask Shard-5 Grubs [300 Geo]
+
+Blue Lake:
+(85) Abyss Shriek<---at--->Rancid Egg-Blue Lake
+
+Deepnest:
+(87) Vessel Fragment-Basin<---at--->Grub-Deepnest Nosk
+(114) Longnail<---at--->Grub-Deepnest Mimic
+(121) Boss Geo-Sanctum Soul Warrior<---at--->Deepnest Map-Upper [38 Geo]
+(131) Grub-Greenpath Cornifer<---at--->Sharp Shadow
+(133) Grub-Crossroads Center<---at--->Pale Ore-Nosk
+(153) Soul Catcher<---at--->King's Idol-Deepnest
+(195) Mask Shard-Stone Sanctuary<---at--->Rancid Egg-Dark Deepnest
+(198) Mark of Pride<---at--->Deepnest Map-Right [Gives Quill] [38 Geo]
+(203) Simple Key-Lurker<---at--->Boss Essence-Galien
+(211) Wanderer's Journal-Kingdom's Edge Entrance<---at--->Whispering Root-Deepnest
+(216) Godtuner<---at--->Vessel Fragment-Deepnest
+(233) Wanderer's Journal-Kingdom's Edge Camp<---at--->Hallownest Seal-Deepnest By Mantis Lords
+(249) Rancid Egg-Sly<---at--->Grub-Deepnest Spike
+(258) Wanderer's Journal-Greenpath Stag<---at--->Mask Shard-Deepnest
+(267) Charm Notch-Grimm<---at--->Grub-Dark Deepnest
+
+Royal Waterways:
+(94) Fragile Strength<---at--->Mask Shard-Waterways
+(95) Whispering Root-Waterways<---at--->Rancid Egg-Waterways Main
+(96) Rancid Egg-Sheo<---at--->Flukenest
+(97) Lifeblood Core<---at--->Rancid Egg-Waterways West Bluggsac
+(98) Mask Shard-Bretta<---at--->Grub-Waterways Main
+(139) Grub-City of Tears Left<---at--->Whispering Root-Waterways
+(149) Deep Focus<---at--->Rancid Egg-Waterways East
+(155) Sprintmaster<---at--->King's Idol-Dung Defender
+(169) Whispering Root-Crystal Peak<---at--->Royal Waterways Map [75 Geo]
+(205) Hallownest Seal-Seer<---at--->Rancid Egg-Waterways West Pickup
+(207) Pale Ore-Colosseum<---at--->Defender's Crest
+(209) Grub-Kingdom's Edge Camp<---at--->Grub-Waterways Requires Tram
+(269) Queen's Station Stag<---at--->Boss Essence-White Defender
+
+Queen's Gardens:
+(99) Grub-Howling Cliffs<---at--->Grub-Queen's Gardens Stag
+(100) Boss Essence-Markoth<---at--->Queen's Gardens Stag [200 Geo]
+(105) Boss Essence-Soul Tyrant<---at--->Boss Essence-Marmu
+(115) Glowing Womb<---at--->Rancid Egg-Queen's Gardens
+(117) City Storerooms Stag<---at--->Love Key
+(152) Boss Essence-Galien<---at--->Hallownest Seal-Queen's Gardens
+(174) Grub-Basin Requires Dive<---at--->Whispering Root-Queens Gardens
+(189) 80 Geo-Crystal Peak Chest<---at--->Queen Fragment
+(202) Grub-Crossroads Guarded<---at--->Grub-Queen's Gardens Top
+(212) Boss Essence-No Eyes<---at--->Grub-Queen's Gardens Marmu
+(213) Weaversong<---at--->Queen's Gardens Map [150 Geo]
+
+Beast's Den:
+(102) Monomon<---at--->Hallownest Seal-Beast's Den
+(144) Dream Gate<---at--->Grub-Beast's Den
+(182) Whispering Root-Kingdoms Edge<---at--->Herrah [1 Dreamnail]
+(218) City of Tears Map<---at--->Rancid Egg-Beast's Den
+
+Distant Village:
+(103) Mothwing Cloak<---at--->Distant Village Stag [250 Geo]
+
+Stone Sanctuary:
+(109) Thorns of Agony<---at--->Boss Essence-No Eyes
+(120) Spore Shroom<---at--->Mask Shard-Stone Sanctuary
+
+(125) Sly (Key):
+Greenpath Map [110 Geo]
+King's Idol-Dung Defender [100 Geo]
+Fury of the Fallen [380 Geo]
+Wayward Compass [120 Geo]
+Wanderer's Journal-Fungal Wastes Thorns Gauntlet [170 Geo]
+Vessel Fragment-Greenpath [400 Geo]
+Pale Ore-Seer [1200 Geo]
+
+Soul Sanctum:
+(134) Whispering Root-Queens Gardens<---at--->Grub-Soul Sanctum
+(163) Vessel Fragment-Crossroads<---at--->Boss Geo-Sanctum Soul Warrior
+(200) Rancid Egg-Waterways East<---at--->Hallownest Seal-Soul Sanctum
+(236) Hallownest Seal-Fog Canyon East<---at--->Boss Essence-Soul Tyrant
+(237) Vengeful Spirit (1)<---at--->380 Geo-Soul Master Chest
+(239) Grub-Collector 3<---at--->Desolate Dive
+(241) Desolate Dive (1)<---at--->Spell Twister
+
+Hive:
+(136) Grub-King's Station<---at--->Grub-Hive External
+(138) Boss Essence-Gorb<---at--->Whispering Root-Hive
+(184) Mask Shard-Sly2<---at--->Hiveblood
+(199) Boss Essence-Failed Champion<---at--->Mask Shard-Hive
+(265) Isma's Tear (1)<---at--->Grub-Hive Internal
+
+Weaver's Den:
+(141) Dashmaster<---at--->160 Geo-Weavers Den Chest
+(225) Boss Essence-Grey Prince Zote<---at--->Weaversong
+(240) Grub-Hallownest Crown<---at--->Rancid Egg-Weaver's Den
+
+Isma's Grove:
+(148) Boss Geo-Gorgeous Husk<---at--->Grub-Waterways East
+(243) Mask Shard-Sly3<---at--->Isma's Tear
+
+Colosseum:
+(150) Descending Dark<---at--->Pale Ore-Colosseum
+(166) Hiveblood<---at--->Charm Notch-Colosseum
+
+Lake of Unn:
+(151) Hallownest Seal-Soul Sanctum<---at--->Shape of Unn
+
+Tower of Love:
+(156) Grub-Fungal Spore Shroom<---at--->Grub-Collector 2
+(160) King Fragment<---at--->Grub-Collector 3
+(223) Rancid Egg-Weaver's Den<---at--->Grub-Collector 1
+(227) Shade Soul<---at--->Collector's Map
+
+Cast Off Shell:
+(158) Mask Shard-Sly4<---at--->King's Brand
+
+Crystallized Mound:
+(161) Hallownest Seal-Queen's Gardens<---at--->Grub-Crystallized Mound
+(208) Crossroads Stag<---at--->Descending Dark
+
+Hallownest's Crown:
+(180) Soul Eater<---at--->Pale Ore-Crystal Peak
+
+Spirits' Glade:
+(185) Void Heart<---at--->Whispering Root-Spirits Glade
+(215) Dreamer (1)<---at--->King's Idol-Glade of Hope
+
+Failed Tramway:
+(186) World Sense<---at--->Tram Pass
+
+Overgrown Mound:
+(219) Mask Shard-Seer<---at--->Howling Wraiths
+
+Black Egg Temple:
+(232) Whispering Root-Crossroads<---at--->World Sense
+
+Pleasure House:
+(245) Crystal Heart (1)<---at--->Rancid Egg-City of Tears Pleasure House
+(247) Vengeful Spirit<---at--->Wanderer's Journal-Pleasure House
+
+Junk Pit:
+(246) Vessel Fragment-Sly2<---at--->Godtuner [1 Simple]
+
+Teacher's Archives:
+(250) Lifeblood Heart<---at--->Monomon [1 Dreamnail]
+
+Fungal Core:
+(261) Gathering Swarm<---at--->Rancid Egg-Fungal Core
+
+
+
+SETTINGS
+Seed: 206055858
+Randomizer version: 3.12(573)
+Mode: Item Randomizer
+Cursed: False
+Start location: King's Pass
+Random start items: False
+REQUIRED SKIPS
+Mild skips: True
+Shade skips: False
+Fireball skips: True
+Acid skips: False
+Spike tunnels: True
+Dark Rooms: False
+Spicy skips: True
+RANDOMIZED POOLS
+Dreamers: True
+Skills: True
+Charms: True
+Keys: True
+Geo chests: True
+Mask shards: True
+Vessel fragments: True
+Pale ore: True
+Charm notches: True
+Rancid eggs: True
+Relics: True
+Stags: True
+Maps: True
+Grubs: True
+Whispering roots: True
+Geo rocks: False
+Soul totems: False
+Palace totems: False
+Lore tablets: False
+Palace tablets: False
+Lifeblood cocoons: False
+Grimmkin flames: False
+Boss essence: True
+Boss geo: True
+Focus: False
+Split cloak: False
+Split claw: False
+Cursed nail: False
+Duplicate major items: True
+QUALITY OF LIFE
+Salubra: True
+Early geo: True
+Extra platforms: True
+NPC item dialogue: True
+Jiji: True
+
+Generated spoiler log in 0.6092773 seconds.

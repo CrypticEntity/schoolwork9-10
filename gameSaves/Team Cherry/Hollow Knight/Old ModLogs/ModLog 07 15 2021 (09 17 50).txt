@@ -1,0 +1,189 @@
+﻿[INFO]:[ModManager] - Initializing
+[INFO]:[ModManager] - Initialized
+[INFO]:[API] - Loading ModdingApi Global Settings.
+[INFO]:[API] - Main menu loading
+[INFO]:[API] - Preloaded reflection in 644ms
+[INFO]:[API] - Trying to load mods
+[INFO]:[API] - Attempting to determine type of mod assemblies (library/mod/addon)
+[INFO]:[API] - Benchwarp - MOD
+[INFO]:[API] - HollowPoint - MOD
+[INFO]:[API] - ModCommon - MOD
+[INFO]:[API] - QoL - MOD
+[INFO]:[API] - RandomizerMod3.0 - MOD
+[INFO]:[API] - SereCore - LIBRARY
+[INFO]:[API] - Vasi - LIBRARY
+[INFO]:[SereCore] - Initializing
+[INFO]:[Benchwarp] - Initializing
+[INFO]:[Benchwarp] - Loading Global Settings
+[INFO]:[HollowPointInit] - Initializing
+[INFO]:[ModCommon] - Initializing
+[INFO]:[ModCommon] - Instantiating Mod
+[INFO]:[ModCommon] - Loading Global Settings
+[INFO]:[QoL] - Initializing
+[INFO]:[QoL] - Loading Global Settings
+[INFO]:[RandomizerMod] - Initializing
+[INFO]:[RandomizerMod] - Loading Global Settings
+[INFO]:[API] - Preloading
+[INFO]:[API] - Checking preloads for mod "ModCommon"
+[INFO]:[API] - Checking preloads for mod "SereCore"
+[INFO]:[API] - Checking preloads for mod "Hollow Point"
+[INFO]:[API] - Checking preloads for mod "RandomizerMod"
+[INFO]:[API] - Found object "Tutorial_01._Props/Chest/Item/Shiny Item (1)"
+[INFO]:[API] - Found object "Tutorial_01._Enemies/Crawler 1"
+[INFO]:[API] - Found object "Tutorial_01._Props/Cave Spikes (1)"
+[INFO]:[API] - Found object "Tutorial_01._Markers/Death Respawn Marker"
+[INFO]:[API] - Found object "Tutorial_01._Scenery/plat_float_17"
+[INFO]:[API] - Found object "Tutorial_01._Props/Tut_tablet_top"
+[INFO]:[API] - Found object "Tutorial_01._Props/Geo Rock 1"
+[INFO]:[API] - Found object "Cliffs_02.Soul Totem 5"
+[INFO]:[API] - Found object "Room_Jinn.Jinn NPC"
+[INFO]:[API] - Found object "Abyss_19.Grub Bottle/Grub"
+[INFO]:[API] - Found object "Abyss_19.Grub Bottle"
+[INFO]:[API] - Checking preloads for mod "Benchwarp"
+[INFO]:[API] - Found object "Crossroads_30.RestBench"
+[INFO]:[API] - Checking preloads for mod "QoL"
+[INFO]:[API] - Loading scene "Tutorial_01"
+[INFO]:[API] - Loading scene "Cliffs_02"
+[INFO]:[API] - Loading scene "Room_Jinn"
+[INFO]:[API] - Loading scene "Abyss_19"
+[INFO]:[API] - Loading scene "Crossroads_30"
+[INFO]:[API] - Fetching objects for mod "RandomizerMod"
+[INFO]:[API] - Fetching object "_Props/Chest/Item/Shiny Item (1)"
+[INFO]:[API] - Fetching object "_Enemies/Crawler 1"
+[INFO]:[API] - Fetching object "_Props/Cave Spikes (1)"
+[INFO]:[API] - Fetching object "_Markers/Death Respawn Marker"
+[INFO]:[API] - Fetching object "_Scenery/plat_float_17"
+[INFO]:[API] - Fetching object "_Props/Tut_tablet_top"
+[INFO]:[API] - Fetching object "_Props/Geo Rock 1"
+[INFO]:[API] - Fetching objects for mod "RandomizerMod"
+[INFO]:[API] - Fetching object "Soul Totem 5"
+[INFO]:[API] - Fetching objects for mod "RandomizerMod"
+[INFO]:[API] - Fetching object "Jinn NPC"
+[INFO]:[API] - Fetching objects for mod "RandomizerMod"
+[INFO]:[API] - Fetching object "Grub Bottle/Grub"
+[INFO]:[API] - Fetching object "Grub Bottle"
+[INFO]:[API] - Fetching objects for mod "Benchwarp"
+[INFO]:[API] - Fetching object "RestBench"
+[INFO]:[API] - Preload done, returning to main menu
+[INFO]:[API] - Main menu loading
+[INFO]:[API] - Loading ModdingApi Global Settings.
+[INFO]:[ModCommon] - Mod Common initializing!
+[INFO]:[ModCommon] - Global settings version match!
+[INFO]:[ModCommon] - Saving Global Settings
+[INFO]:[ModCommon] - Mod Common is done initializing!
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_rifle.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: glow.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: muzzleflash.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: sprite_bullet_soul.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: bulletCasingSprite.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: anim.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: heatbarsprite.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: bulletSpriteFade.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: heatbarspriteestimate.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: heatbarborder.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: exampletext.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: energybarborder.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: energybarsprite.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: specialbullet.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: lightflash.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: flarebullet.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: furybullet.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: shadebullet.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: shard.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_cardinal.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_omni.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_adrenaline5.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_adrenaline0.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_adrenaline1.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_adrenaline2.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_adrenaline3.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_adrenaline4.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: muzzleflashAlt.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_sniper.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_rifle_nohands.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_lmg.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_lmg_nohands.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_sniper_nohands.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_dmr.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_dmr_nohands.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_shotgun.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_shotgun_nohands.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_carbine.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_carbine_nohands.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_smg.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: weapon_sprite_smg_nohands.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: sprite_bullet_dagger.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: sprite_bullet_dung.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_cancastnailart_false.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: hudicon_cancastnailart_true.png
+[INFO]:[HOLLOW POINT] Created sprite from embedded image: sprite_bullet_voids.png
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_rifle.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemyhurt1.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemydead1.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemyhurt2.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemyhurt3.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemydead2.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemydead3.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.impact_01.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.impact_02.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.impact_03.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.impact_04.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.impact_05.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.draw.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.holster.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_shotgun.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_smg.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_sniper.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.divedetonate.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.divetrigger.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.firerocket.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.subsonicsfx.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.weapon_draw.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.weapon_holster.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.mortarclose.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.mortarexplosion.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.airstrikeinbound.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_flare.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.airstrikeend.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.airstrikerequest.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.cantfire.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.focussound.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.infusionsound.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_pistol.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemyhurt4.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemyhurt5.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.enemyhurt6.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_gatlinggun.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_carbine.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_lmg.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_dmr.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.sfx_daggerthrow_01.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.sfx_daggerthrow_02.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.sfx_daggerthrow_03.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.sfx_fireselect.wav
+[INFO]:[HOLLOW POINT] Created sound effect HollowPoint.assets.shoot_sfx_shrapnel.wav
+[INFO]:[RandomizerMod] - Language xml processed
+[INFO]:[RandomizerMod] - Parsed items.xml in 0.5523708 seconds
+[INFO]:[Benchwarp] - Loaded image: ButtonRect
+[INFO]:[Benchwarp] - Loaded image: ButtonRectEmpty
+[INFO]:[Benchwarp] - Loaded image: ButtonsMenuBG
+[INFO]:[Benchwarp] - Loaded image: DropdownBG
+[INFO]:[API] - Saving Global Settings
+[INFO]:[FauxUIManager] - Loading Mod Menu
+[INFO]:Unload on Init is called
+[INFO]:[API] - Saving Global Settings
+[INFO]:[FauxUIManager] - Quitting Mod Menu
+[ERROR]:[UNITY] - NullReferenceException
+[ERROR]:[UNITY] - MenuButtonList.Start ()
+[ERROR]:[UNITY] - 
+[INFO]:[Benchwarp] - Adding settings to save file
+[INFO]:[ModCommon] - Adding settings to save file
+[INFO]:[RandomizerMod] - Adding settings to save file
+[INFO]:[API] - Main menu loading
+[ERROR]:[UNITY] - NullReferenceException
+[ERROR]:[UNITY] - MenuButtonList.Start ()
+[ERROR]:[UNITY] - 
+[INFO]:[API] - Saving Global Settings
+[INFO]:[Benchwarp] - Saving Global Settings
+[INFO]:[QoL] - Saving Global Settings
+[INFO]:[RandomizerMod] - Saving Global Settings

@@ -1,0 +1,63 @@
+﻿[INFO]:[ModManager] - Initializing
+[INFO]:[ModManager] - Initialized
+[INFO]:[API] - Loading ModdingApi Global Settings.
+[INFO]:[API] - Main menu loading
+[INFO]:[API] - Preloaded reflection in 639ms
+[INFO]:[API] - Trying to load mods
+[INFO]:[API] - Attempting to determine type of mod assemblies (library/mod/addon)
+[INFO]:[API] - Benchwarp - MOD
+[INFO]:[API] - HollowPoint - MOD
+[INFO]:[API] - ModCommon - MOD
+[INFO]:[API] - QoL - MOD
+[INFO]:[API] - RandomizerMod3.0 - MOD
+[INFO]:[API] - SereCore - LIBRARY
+[INFO]:[API] - Vasi - LIBRARY
+[INFO]:[SereCore] - Initializing
+[INFO]:[Benchwarp] - Initializing
+[INFO]:[Benchwarp] - Loading Global Settings
+[INFO]:[HollowPointInit] - Initializing
+[INFO]:[ModCommon] - Initializing
+[INFO]:[ModCommon] - Instantiating Mod
+[INFO]:[ModCommon] - Loading Global Settings
+[INFO]:[QoL] - Initializing
+[INFO]:[QoL] - Loading Global Settings
+[INFO]:[RandomizerMod] - Initializing
+[INFO]:[RandomizerMod] - Loading Global Settings
+[INFO]:[API] - Preloading
+[INFO]:[API] - Checking preloads for mod "ModCommon"
+[INFO]:[API] - Checking preloads for mod "SereCore"
+[INFO]:[API] - Checking preloads for mod "Hollow Point"
+[INFO]:[API] - Checking preloads for mod "RandomizerMod"
+[INFO]:[API] - Found object "Tutorial_01._Props/Chest/Item/Shiny Item (1)"
+[INFO]:[API] - Found object "Tutorial_01._Enemies/Crawler 1"
+[INFO]:[API] - Found object "Tutorial_01._Props/Cave Spikes (1)"
+[INFO]:[API] - Found object "Tutorial_01._Markers/Death Respawn Marker"
+[INFO]:[API] - Found object "Tutorial_01._Scenery/plat_float_17"
+[INFO]:[API] - Found object "Tutorial_01._Props/Tut_tablet_top"
+[INFO]:[API] - Found object "Tutorial_01._Props/Geo Rock 1"
+[INFO]:[API] - Found object "Cliffs_02.Soul Totem 5"
+[INFO]:[API] - Found object "Room_Jinn.Jinn NPC"
+[INFO]:[API] - Found object "Abyss_19.Grub Bottle/Grub"
+[INFO]:[API] - Found object "Abyss_19.Grub Bottle"
+[INFO]:[API] - Checking preloads for mod "Benchwarp"
+[INFO]:[API] - Found object "Crossroads_30.RestBench"
+[INFO]:[API] - Checking preloads for mod "QoL"
+[INFO]:[API] - Loading scene "Tutorial_01"
+[INFO]:[API] - Loading scene "Cliffs_02"
+[INFO]:[API] - Loading scene "Room_Jinn"
+[INFO]:[API] - Loading scene "Abyss_19"
+[INFO]:[API] - Loading scene "Crossroads_30"
+[INFO]:[API] - Fetching objects for mod "RandomizerMod"
+[INFO]:[API] - Fetching object "_Props/Chest/Item/Shiny Item (1)"
+[INFO]:[API] - Fetching object "_Enemies/Crawler 1"
+[INFO]:[API] - Fetching object "_Props/Cave Spikes (1)"
+[INFO]:[API] - Fetching object "_Markers/Death Respawn Marker"
+[INFO]:[API] - Fetching object "_Scenery/plat_float_17"
+[INFO]:[API] - Fetching object "_Props/Tut_tablet_top"
+[INFO]:[API] - Fetching object "_Props/Geo Rock 1"
+[INFO]:[API] - Fetching objects for mod "RandomizerMod"
+[INFO]:[API] - Fetching object "Soul Totem 5"
+[INFO]:[API] - Saving Global Settings
+[INFO]:[Benchwarp] - Saving Global Settings
+[INFO]:[QoL] - Saving Global Settings
+[INFO]:[RandomizerMod] - Saving Global Settings

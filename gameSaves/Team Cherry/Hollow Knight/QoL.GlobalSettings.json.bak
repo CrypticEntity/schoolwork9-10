@@ -1,0 +1,39 @@
+{
+  "BoolValues": {
+    "Dev": true,
+    "FasterLoads": true,
+    "FastMenus": true,
+    "FastText": true,
+    "FixDashmaster": true,
+    "FixFireballs": true,
+    "FixGodhomeMenus": true,
+    "FixVolume": true,
+    "InfinitePoP": true,
+    "LemmSellAll": true,
+    "LockMenuCursor": false,
+    "MouseBindings": true,
+    "NoHardSaves": false,
+    "SalubraKiller": true,
+    "SaneUumuu": true,
+    "SkipCutscenes": true,
+    "SpeedBroke": true,
+    "UnencryptedSaves": true,
+    "Dev:LogUnityErrors": true,
+    "Dev:EnableStacktrace": true,
+    "SpeedBroke:MenuDrop": true,
+    "SpeedBroke:Storage": true,
+    "SpeedBroke:Superslides": true,
+    "SpeedBroke:Televator": true,
+    "SpeedBroke:ExplosionPogo": true,
+    "SpeedBroke:GrubsThroughWalls": true,
+    "SpeedBroke:LeverSkips": true,
+    "SpeedBroke:NoHardFalls": false,
+    "SpeedBroke:ShadeSoulLeverSkip": false,
+    "SpeedBroke:CrystalisedMoundSpikes": true
+  },
+  "FloatValues": {
+    "FixVolume:DoubleDamageVolumeModifier": 0.8
+  },
+  "IntValues": {},
+  "StringValues": {}
+}

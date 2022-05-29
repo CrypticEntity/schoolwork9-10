@@ -1,0 +1,61 @@
+Generating helper log:
+Current scene: RestingGrounds_09
+
+
+REACHABLE ITEM LOCATIONS
+There are 16 unchecked reachable locations.
+
+Shops
+ - Seer
+ - Grubfather
+ - Sly
+ - Salubra
+
+Resting Grounds
+ - Dreamshield
+ - Resting Grounds Map
+
+Dirtmouth
+ - Grimmchild
+ - Dirtmouth Stag
+
+Ancient Basin
+ - Simple Key-Basin
+
+Forgotten Crossroads
+ - Mask Shard-Brooding Mawlek
+ - Mask Shard-Crossroads Goam
+ - Grub-Crossroads Acid
+ - Grub-Crossroads Spike
+ - Grub-Crossroads Guarded
+ - Boss Geo-Gruz Mother
+
+Palace Grounds
+ - Hidden Station Stag
+
+
+CHECKED ITEM LOCATIONS
+
+Kings Pass
+ - Fury of the Fallen
+
+Shops
+ - Iselda
+
+Forgotten Crossroads
+ - Crossroads Map
+ - Crossroads Stag
+ - City Crest
+ - 200 Geo-False Knight Chest
+ - Grub-Crossroads Center
+ - Grub-Crossroads Stag
+
+Ancestral Mound
+ - Vengeful Spirit
+
+Resting Grounds
+ - Dream Nail
+ - Dream Wielder
+ - Resting Grounds Stag
+
+Generated helper log in 0.0889271 seconds.
