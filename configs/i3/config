@@ -54,7 +54,7 @@ floating_modifier $mod
 bindsym $mod+Return exec alacritty
 
 # Shutdown
-bindsym ctrl+Mod1+delete  exec sudo poweroff
+bindsym $mod+Shift+e exec loginctl poweroff
 
 
 # Pause Music
