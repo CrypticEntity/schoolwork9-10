@@ -1,3 +1,4 @@
+#Setting Permanant Variables for Cost of Items
 chickenStripCost = 150
 juiceCost = 300
 milkCost = 300
@@ -6,7 +7,7 @@ toastyCost = 400
 waterCost = 200
 chickenWrapCost = 450
 
-
+#Function to efficently ask the user whether they want to confirm action
 def sureChecker(): 
     sureCheck = input("Are you sure:")
     
@@ -15,14 +16,14 @@ def sureChecker():
     else:
         return False
                 
-
+#Function to Recheck the money file stored on the system
 def updateMoneyVariable():
     moneyFile = open("money", "r")
     money = int(moneyFile.readline())
     moneyFile.close()
     return money
 
-
+#Function for a menu to help the user add money to their account and write that value to the money file
 def addMoney():
     money = updateMoneyVariable()
 
@@ -50,6 +51,9 @@ def addMoney():
         else:
             main()
 
+
+#main function most of the runtime is spent in
+#Menu to add items to order and check total of order
 def buySomething():
     try:
         orderTotal
@@ -71,46 +75,40 @@ def buySomething():
         print("2: Chicken Wrap, $4.50")
         print("3: Pasty, $3.50")
         print("4: Toasty, $4.00")
-        subMenuResponse = input("Option:")
+        subMenuResponse = str(input("Option:"))
         if subMenuResponse == 1:
-            if sureChecker() is True:
-                orderTotal += chickenStripCost
+            orderTotal += chickenStripCost
 
         if subMenuResponse == 2:
-            if sureChecker() is True:
-                orderTotal += chickenWrapCost
+            orderTotal += chickenWrapCost
 
         if subMenuResponse == 3:
-            if sureChecker() is True:
-                orderTotal += pastyCost
+            orderTotal += pastyCost
 
         if subMenuResponse == 4:
-            if sureChecker() is True:
-                orderTotal += toastyCost
+            orderTotal += toastyCost
         print("Your order now costs $", orderTotal/100 ) 
         main()
 
-        if menuResponse == 2: 
-            print("What Drink do You Want")
-            print("Type Number To Proceed")
-            print("1: Milk, $3.00")
-            print("2: Juice, $3.00")
-            print("3: Water, $2.00")
-            subMenuResponse = input("Option:")
+    if menuResponse == 2: 
+        print("What Drink do You Want")
+        print("Type Number To Proceed")
+        print("1: Milk, $3.00")
+        print("2: Juice, $3.00")
+        print("3: Water, $2.00")
+        subMenuResponse = int(input("Option:"))
 
-            if subMenuResponse == 1:
-                if sureChecker() is True:
-                    orderTotal += milkCost
-
-            if subMenuResponse == 2:
-                if sureChecker() is True:
-                    orderTotal += juiceCost
+        if subMenuResponse == 1:
+            orderTotal += milkCost
+   
+        if subMenuResponse == 2:
+            orderTotal += juiceCost
         
-            if subMenuResponse == 3:
-                if sureChecker() is True:
-                    orderTotal += waterCost
-            print("Your order now costs $", orderTotal/100)
-
+        if subMenuResponse == 3:
+            if sureChecker() is True:
+                orderTotal += waterCost
+        print("Your order now costs $"+ str(orderTotal/100))
+        main()
 
 
 
