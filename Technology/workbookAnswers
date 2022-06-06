@@ -1,0 +1,5 @@
+Ch. 1 Review
+1. Lossless compression does not loose data from the raw format and can be uncompressed to identically recreate that raw format. Lossy compression does loose data from the raw format.
+2. Lossless compression can be seen in file archives and png files. Lossy compression can be seen in jpeg and wav files.
+3. To save space on drives
+4. 

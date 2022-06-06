@@ -29,6 +29,7 @@ exec --no-startup-id xbacklight -ctrl intel_backlight -set 100
 exec --no-startup-id pasystray
 exec --no-startup-id polybar
 exec mpd
+exec --no-startup-id xinput set-prop 13 352 0
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
 
