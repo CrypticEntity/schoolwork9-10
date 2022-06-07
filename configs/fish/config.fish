@@ -5,6 +5,7 @@ set fish_greeting
 set VIRTUAL_ENV_DISABLE_PROMPT "1"
 set -x MANPAGER "sh -c 'col -bx | bat -l man -p'"
 
+
 # Set settings for https://github.com/franciscolourenco/done
 set -U __done_min_cmd_duration 10000
 set -U __done_notification_urgency_level low
@@ -15,8 +16,6 @@ set -U __done_notification_urgency_level low
 
 
 # Add ~/.local/bin to PATH
-
-
 set -p PATH ~/.local/bin
 
 # Add depot_tools to PATH
@@ -88,6 +87,8 @@ function fish_user_key_bindings
   # ...
 end
 
+## Start Zoxide
+zoxide init fish | source
 
 
 ## Useful aliases
@@ -106,16 +107,7 @@ alias cat='bat --style header --style rules --style snip --style changes --style
 # Common use
 alias vim="nvim"
 alias mpv="mpv --no-audio-display"
-alias aup="pamac upgrade --aur"
-alias grubup="sudo update-grub"
-alias fixpacman="sudo rm /var/lib/pacman/db.lck"
-alias tarnow='tar -acf '
-alias untar='tar -zxvf '
 alias wget='wget -c '
-alias rmpkg="sudo pacman -Rdd"
-alias psmem='ps auxf | sort -nr -k 4'
-alias psmem10='ps auxf | sort -nr -k 4 | head -10'
-alias upd='sudo reflector --latest 5 --age 2 --fastest 5 --protocol https --sort rate --save /etc/pacman.d/mirrorlist && cat /etc/pacman.d/mirrorlist && sudo pacman -Syu && fish_update_completions && sudo updatedb && sudo -H DIFFPROG=meld pacdiff'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
@@ -169,3 +161,5 @@ end
 if status --is-interactive
    neofetch
 end
+
+thefuck --alias | source
