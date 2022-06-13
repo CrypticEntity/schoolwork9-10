@@ -2,4 +2,7 @@ Ch. 1 Review
 1. Lossless compression does not loose data from the raw format and can be uncompressed to identically recreate that raw format. Lossy compression does loose data from the raw format.
 2. Lossless compression can be seen in file archives and png files. Lossy compression can be seen in jpeg and wav files.
 3. To save space on drives
-4. Jpeg compression redues the size of graphics files by removing less noticable information in the image particularlly large places in the image which
+4. JPEG compression redues the size of graphics files by removing less noticable information in the image particularlly large places in the image which
+5. RLE compresses images by finding patterns in the image like repeated colors in a row and shortening them by adding repeats in the patters. This is lossess compresion.
+6. JPEG: Internet websites. TIFF should be used as a high quality print. GIF should be for small, audioless videos. PNG can be used a a high quality image or for websites although it is bigger than JPEG.
+7. Removing audio frequencies that humans cannot hear is a way of compressing audio files. This is effective as it has no effect on noticeable audio quality.
