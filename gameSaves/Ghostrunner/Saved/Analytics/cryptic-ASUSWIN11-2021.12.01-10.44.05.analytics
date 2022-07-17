@@ -1,0 +1,5344 @@
+{
+	"sessionId" : "cryptic-ASUSWIN11-2021.12.01-10.44.05",
+	"userId" : "cryptic-ASUSWIN11",
+	"buildInfo" : "41220.437",
+	"events" : [
+		{
+			"eventName" : "newPlayer"
+,			"attributes" : [
+			{
+				"name" : "steamID",
+				"value" : "UNKNOWN"
+			}
+			,
+			{
+				"name" : "dlc01",
+				"value" : "true"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "gameStarted"
+		}
+,
+		{
+			"eventName" : "clientDevice"
+,			"attributes" : [
+			{
+				"name" : "availablePhysicalMemory",
+				"value" : "16"
+			}
+			,
+			{
+				"name" : "coresCount",
+				"value" : "4"
+			}
+			,
+			{
+				"name" : "cpuBrand",
+				"value" : "11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz"
+			}
+			,
+			{
+				"name" : "cpuInfo",
+				"value" : "526017"
+			}
+			,
+			{
+				"name" : "cpuVendor",
+				"value" : "GenuineIntel"
+			}
+			,
+			{
+				"name" : "deviceName",
+				"value" : "PC"
+			}
+			,
+			{
+				"name" : "deviceType",
+				"value" : "PC"
+			}
+			,
+			{
+				"name" : "gpuBrand",
+				"value" : "Intel(R) Iris(R) Xe Graphics"
+			}
+			,
+			{
+				"name" : "gpuVendorId",
+				"value" : "32902"
+			}
+			,
+			{
+				"name" : "gpuDeviceDescription",
+				"value" : "Intel(R) Iris(R) Xe Graphics"
+			}
+			,
+			{
+				"name" : "gpuProviderName",
+				"value" : "Intel Corporation"
+			}
+			,
+			{
+				"name" : "gpuInternalDriverVersion",
+				"value" : "30.0.100.9805"
+			}
+			,
+			{
+				"name" : "gpuUserDriverVersion",
+				"value" : "30.0.100.9805"
+			}
+			,
+			{
+				"name" : "gpuDriverDate",
+				"value" : "7-23-2021"
+			}
+			,
+			{
+				"name" : "operatingSystem",
+				"value" : "WINDOWS"
+			}
+			,
+			{
+				"name" : "operatingSystemVersion",
+				"value" : "10.0.22504.1.768.64bit"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "graphicsApi"
+,			"attributes" : [
+			{
+				"name" : "directx12",
+				"value" : "false"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "missionStarted"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "gameMode",
+				"value" : "normal"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "66413.671875"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-13284.289062"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "746.969238"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "1"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "1"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "66277.8125"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-18385.771484"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "1433.706421"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "2"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "2"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "63605.042969"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-23467.380859"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "1614.82312"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "3"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "64524.230469"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-23390.431641"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "858.952148"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "4"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "4"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "4"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "74057.109375"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-45446.363281"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "1548.131104"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "5"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "5"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "5"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "5"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "5"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "95223.609375"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-63108.445312"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "567.017639"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "6"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "86314.960938"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-50146.277344"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "1936.609375"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "7"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "88316.1875"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-50629.808594"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "1620.574097"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "8"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "87850.867188"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-50966.917969"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "1613.150146"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "9"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "93674.929688"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-62715.160156"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "3273.150146"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "10"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "91510.023438"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-62603.195312"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "3273.149902"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "11"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "88209.640625"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-50524.78125"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "1622.967529"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "12"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "12"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "12"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "12"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "114594.867188"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-54223.085938"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "5338.780273"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "13"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "112796.242188"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-54472.339844"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "5138.842285"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "14"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "14"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "14"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "127144.585938"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-55140.300781"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7405.622559"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "15"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "125572.875"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56119.109375"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7570.14502"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "16"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "130170.109375"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56268.566406"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "8004.149902"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "17"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "125371.851562"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56126.886719"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7606.294434"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "18"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "127338.414062"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-55861.605469"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "8056.665039"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "19"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "126866.054688"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-55227.199219"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7431.751465"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "20"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "133180.71875"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56894.039062"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7886.277344"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "21"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "131985.3125"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-55443.867188"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7451.622559"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "22"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "125577.679688"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56535.125"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7786.895996"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "23"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "127189.53125"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56246.878906"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7451.622559"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "24"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "127604.9375"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-55239.761719"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7594.82373"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "25"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "126954.625"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56572.890625"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7451.622559"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "26"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "125114.78125"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56275.996094"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "6498.341797"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "27"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "129224.578125"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56463.046875"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "9124.974609"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "28"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "126303.53125"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-55352.066406"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7451.623535"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "29"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "125459.03125"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56381.949219"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7451.622559"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "30"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "127307.585938"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-55140.128906"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7600.73584"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "31"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "133835"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-54190.324219"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7903.560547"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "32"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "125229.414062"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56201.882812"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7624.654297"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "33"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "125499.453125"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56214.484375"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7451.622559"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "34"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "132468.765625"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-54207.757812"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "10499.080078"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "35"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "124483.070312"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-55960.835938"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7765.249023"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "36"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "125142.320312"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56656.335938"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7626.786133"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "37"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "134135.6875"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56724.628906"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "8164.092285"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "38"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "125090.695312"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56251.945312"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7496.480469"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "39"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "132027.828125"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-53921.183594"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "10500.178711"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "40"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "127636.375"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-54778.082031"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7471.161621"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "41"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "129232.789062"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56384.253906"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "8004.149902"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "42"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "131809.515625"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-55005.722656"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "10685.262695"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "43"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "125938.976562"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56066.605469"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7451.622559"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "44"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "127530.429688"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-55470.390625"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7593.911621"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "45"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "130281.148438"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-55738.480469"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "8004.149902"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "46"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "126881.546875"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56634"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7451.622559"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "47"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "129249.921875"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56457.628906"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "8004.149902"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "48"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "132435.265625"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-55787.003906"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "10500.150391"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "49"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "125136.9375"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56401.152344"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7597.098145"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "50"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "134134.046875"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56838.917969"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7877.32666"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "51"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "129772.914062"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56158.644531"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "8335.633789"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "52"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "124922.867188"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56662.613281"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7881.516113"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "53"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "125480.210938"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56144.429688"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7703.526855"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "54"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "136165.75"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-55210.339844"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "8250.150391"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "55"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "124679.039062"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-55922.6875"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7723.346191"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "56"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "132233.40625"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-53848.640625"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "10521.65332"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "57"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "57"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "57"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "57"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "57"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "57"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "57"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "155188.421875"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-81884.046875"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "5744.640137"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "58"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "169234.21875"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56507"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "5745.639648"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "59"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "59"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "missionFailed"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "59"
+			}
+			,
+			{
+				"name" : "levelTime",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "levelTimeWithDilatation",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "gameMode",
+				"value" : "normal"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "missionStarted"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "gameMode",
+				"value" : "normal"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-13064.036133"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-7616.063965"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "-972.548096"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "1"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-13061.091797"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-7862.897461"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "2569.060547"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "2"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-9365.508789"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-6984.11377"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "-954.804932"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "3"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-13022.359375"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-7853.353516"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "2485.840088"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "4"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "4"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "4"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "4"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "4"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-7737.02002"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "1658.653809"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "4411.622559"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "5"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-8146.912598"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "2061.26001"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "4690.079102"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "6"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-7738.100098"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "1698.869751"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "4411.623535"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "7"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "7"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-9797.457031"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "17611.392578"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "4612.120605"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "8"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-10030.466797"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "18283.65625"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "4511.622559"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "9"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-9819.613281"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "17407.853516"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "4607.187012"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "10"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-9512.483398"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "13843.676758"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "4511.622559"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "11"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "11"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "11"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-4029.611328"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "28811.398438"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "6825.274902"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "12"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-4174.907715"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "35689.261719"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "4330.727051"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "13"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-3627.858643"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "38559.71875"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "6828.149902"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "14"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "14"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "9282.439453"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "43277.351562"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7602.521484"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "15"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "3588.430664"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "40849.765625"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7420.762207"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "16"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "7737.650879"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "45220.507812"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7502.282227"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "17"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "7489.776367"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "41066.132812"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7404.399902"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "18"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "8129.557617"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "42655"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7404.399902"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "19"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "7234.300293"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "41338.035156"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7404.399902"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "20"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "7736.070801"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "44182.464844"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7404.399902"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "21"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "6636.76416"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "41170.789062"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7404.399902"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "22"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "9312.958008"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "43143.9375"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7398.149902"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "23"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "12333.12793"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "38979.035156"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7917.795898"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "24"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "9783.984375"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "43294.21875"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7398.012695"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "25"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "4847.001465"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "41408.625"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7615.870117"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "26"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "26"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "20199.865234"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "40164.726562"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7407.952148"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "27"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "27"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "27"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "missionFailed"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "27"
+			}
+			,
+			{
+				"name" : "levelTime",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "levelTimeWithDilatation",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "gameMode",
+				"value" : "normal"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "missionStarted"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "gameMode",
+				"value" : "normal"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "104053.265625"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-27869.955078"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "-460.808502"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "1"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "99849.375"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-28067.316406"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "-463.20755"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "2"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "2"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "2"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "2"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "2"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "2"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "103325.296875"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-69637.273438"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "-3611.172363"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "3"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "103042.03125"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-71000.03125"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "-3627.746338"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "4"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "102300.085938"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-70367.359375"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "-3611.990234"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "5"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "110849.640625"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-71200.054688"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "-3619.026123"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "6"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "missionFailed"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR1"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "6"
+			}
+			,
+			{
+				"name" : "levelTime",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "levelTimeWithDilatation",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "gameMode",
+				"value" : "normal"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "missionStarted"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR2"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR2"
+			}
+			,
+			{
+				"name" : "gameMode",
+				"value" : "normal"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR2"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR2"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR2"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR2"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR2"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR2"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR2"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR2"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR2"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR2"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR2"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR2"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "missionFailed"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_VR2"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_VR2"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "levelTime",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "levelTimeWithDilatation",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "gameMode",
+				"value" : "normal"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "missionStarted"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_BIS"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_bis"
+			}
+			,
+			{
+				"name" : "gameMode",
+				"value" : "normal"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_BIS"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_bis"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_BIS"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_bis"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_BIS"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_bis"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "24831.855469"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "18419.517578"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "8167.221191"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "1"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_BIS"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_bis"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "25062.964844"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "17235.927734"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "8004.339355"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "2"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_BIS"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_bis"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "24749.748047"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "17772.287109"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "7999.539062"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "3"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_BIS"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_bis"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "23575.011719"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "16933.074219"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "8112.484375"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "4"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_BIS"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_bis"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "17749.685547"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "11478.12793"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "8499.539062"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "5"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "missionFailed"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "03_02_BIS"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "03_02_bis"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "5"
+			}
+			,
+			{
+				"name" : "levelTime",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "levelTimeWithDilatation",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "gameMode",
+				"value" : "normal"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "gameEnded"
+		}
+	]
+}
