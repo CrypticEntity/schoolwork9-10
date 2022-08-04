@@ -1,0 +1,3 @@
+[15:14:05][pdx_ugc.cpp:52]: No UGC backend available for current platform.
+[15:14:46][texturehandler.cpp:174]: Texture Handler encountered missing texture file: gfx/interface/frontend/gamesetup_delete_mask.dds
+[15:14:46][texturehandler.cpp:227]: Couldn't find texture file: gfx/interface/frontend/gamesetup_delete_mask.dds.

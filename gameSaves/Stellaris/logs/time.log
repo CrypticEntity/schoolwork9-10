@@ -1,0 +1,7 @@
+[15:15:15][main.cpp:1582]: [Thread 140345322278144] Startup real time: 72024 ms
+[15:15:15][main.cpp:1587]: - start: 2122 ms
+[15:15:15][main.cpp:1587]: - main task: 12125 ms
+[15:15:15][main.cpp:1587]: - create application: 101 ms
+[15:15:15][main.cpp:1587]: - init application: 57675 ms
+[15:15:15][main.cpp:1587]: - await verification: 0 ms
+[15:15:21][gamestate.cpp:4303]: Recalc cached data real time: 1501 ms
