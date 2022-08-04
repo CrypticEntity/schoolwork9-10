@@ -1,6 +1,0 @@
-"System"={
-	"language"={
-		value="l_english"
-		version=0
-	}
-}
