@@ -6,3 +6,4 @@ Ch. 1 Review
 5. RLE compresses images by finding patterns in the image like repeated colors in a row and shortening them by adding repeats in the patters. This is lossess compresion.
 6. JPEG: Internet websites. TIFF should be used as a high quality print. GIF should be for small, audioless videos. PNG can be used a a high quality image or for websites although it is bigger than JPEG.
 7. Removing audio frequencies that humans cannot hear is a way of compressing audio files. This is effective as it has no effect on noticeable audio quality.
+
