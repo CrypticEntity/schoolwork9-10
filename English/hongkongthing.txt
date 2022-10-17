@@ -1,0 +1,33 @@
+masthead:
+hong kong on a budget
+
+colour scheme:
+black and white with blue title
+
+layout:
+many paragraphs with various topics about travelling to hong kong with contents page linking them
+
+author biography:
+Yoshke is a part-time digital marketing consultant, part-time travel blogger, and full-time dreamer.
+
+hyperlink:
+various links to other articles
+links to paragraph through contents page
+
+haedings:
+various including:
+WHAT'S COVERED IN THIS GUIDE?
+UNDERSTANDING HONG KONG
+BEST TIME TO VISIT HONG KONG
+HOW TO GET TO HONG KONG
+MANILA TO HONG KONG
+
+font:
+outfit sans-serif, outfit serif
+
+
+Images:
+various pricing graphs and images of hong kong landscapes
+
+Dot Points:
+Used to list tourist attractions and places in Hong Kong
