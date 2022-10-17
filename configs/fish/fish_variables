@@ -1,8 +1,8 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
-SETUVAR __done_min_cmd_duration:10000\x0d
-SETUVAR __done_notification_urgency_level:low\x0d
-SETUVAR __fish_initialized:3400\x0d
+SETUVAR __done_min_cmd_duration:10000
+SETUVAR __done_notification_urgency_level:low
+SETUVAR __fish_initialized:3400
 SETUVAR fish_color_autosuggestion:555\x1ebrblack\x0d\x0d
 SETUVAR fish_color_cancel:\x2dr\x0d\x0d
 SETUVAR fish_color_command:005fd7\x0d\x0d
