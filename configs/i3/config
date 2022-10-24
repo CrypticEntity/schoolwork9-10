@@ -62,7 +62,7 @@ bindsym $mod+Shift+e exec loginctl poweroff
 
 # Pause Music
 bindsym $mod+p exec mpc toggle
-
+bindsym $mod+n exec mpc next
 # kill focused window
 bindsym $mod+Shift+q kill
 
