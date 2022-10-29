@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/john/Documents/math/algebra'
+let g:netrw_dirhist_3='/home/john/Programing/rustBasics/loop/src'
+let g:netrw_dirhist_2='/home/john/Programing/rustBasics/simple_var'
+let g:netrw_dirhist_1='/home/john/Programing/rustBasics'
+let g:netrw_dirhist_0='/home/john/Programing/rustBasics/loop'
+let g:netrw_dirhist_9='/home/john/Programing/rustBasics'
+let g:netrw_dirhist_8='/home/john/Programing/rustBasics/hello_world'
+let g:netrw_dirhist_7='/home/john/Programing/rustBasics'
+let g:netrw_dirhist_6='/home/john/Programing/rustBasics/heap_and_stack'
+let g:netrw_dirhist_5='/home/john/Programing/rustBasics'
