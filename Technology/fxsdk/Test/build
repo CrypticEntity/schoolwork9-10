@@ -1,0 +1,3 @@
+rm -r build-cg
+rm *.g3a
+fxsdk build-cg VERBOSE=1

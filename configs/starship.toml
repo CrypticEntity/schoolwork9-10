@@ -141,3 +141,6 @@ symbol = " "
 
 [swift]
 symbol = "ﯣ "
+
+[container]
+disabled = true
