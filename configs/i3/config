@@ -22,16 +22,11 @@ font pango:monospace 8
 
 # Start XDG autostart .desktop files using dex. See also
 # https://wiki.archlinux.org/index.php/XDG_Autostart
-exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id nitrogen --restore
 exec --no-startup-id picom -b --experimental-backends
 exec --no-startup-id xbacklight -ctrl intel_backlight -set 100
-exec --no-startup-id pasystray
 exec --no-startup-id polybar
 exec mpd
-exec --no-startup-id xinput set-prop 13 352 0
-exec xinput set-prop "DELL0A33:00 04F3:3082 Touchpad" "libinput Tapping Enabled" 1
-exec xinput set-prop "DELL0A33:00 04F3:3082 Touchpad" "libinput Disable While Typing Enabled" 1
 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
