@@ -1,8 +1,8 @@
 #include <gint/display.h>
 #include <gint/keyboard.h>
 //screen size is 384 x 216/32 x 18
-#define dimensionY 18
 #define dimensionX 32
+#define dimensionY 18
 #define pointNumber 576
 #define pointNumberMinusOne 575
 
@@ -19,6 +19,11 @@ typedef struct screen
     char entity;
 }point;
 
+typedef struct heroDirection
+{
+    int x;
+    int y;
+}heroDirection;
 
 void updateScreen(point points [pointNumber])
 {
@@ -29,12 +34,25 @@ void updateScreen(point points [pointNumber])
     dupdate();
 }
 
+void moveHero(heroDirection offset, hero heropoint)
+{
+    heropoint.x += offset.x;
+    heropoint.y += offset.y;
+}
+
+void updateHero(point points [pointNumber], hero heropoint)
+{
+    points[heropoint.x + heropoint.y * dimensionX].entity = '@';
+}
+
 int main(void)
 
 {
-	hero hero={
-	    9,16
-	};	
+	hero heropoint={
+	    31,17
+	};
+	
+
 	point points[pointNumber]={
 	    [0 ... pointNumberMinusOne] = {0,0,'.'}
 	};
@@ -48,6 +66,28 @@ int main(void)
 	    }
 	}
 	updateScreen(points);
-	getkey();
-	return 1;
+	while(1){
+	    getkey();
+	    if(keydown(KEY_UP)){
+		heroDirection offset={0,-1};
+		moveHero(offset, heropoint);
+	    }
+	    if(keydown(KEY_DOWN)){
+		heroDirection offset={0,1};
+		moveHero(offset, heropoint);
+	    }
+	    if(keydown(KEY_LEFT)){
+		heroDirection offset={-1,0};
+		moveHero(offset, heropoint);
+	    }
+	    if(keydown(KEY_DOWN)){
+		heroDirection offset={0,1};
+		moveHero(offset, heropoint);
+	    }
+	    if(keydown(KEY_EXIT)) {
+		return 1;
+	    }
+	updateHero(points, heropoint);
+	updateScreen(points);
+	}
 }
