@@ -34,10 +34,11 @@ void updateScreen(point points [pointNumber])
     dupdate();
 }
 
-void moveHero(heroDirection offset, hero heropoint)
+void moveHero(heroDirection offset, hero* heropoint)
 {
-    heropoint.x += offset.x;
-    heropoint.y += offset.y;
+    points
+    heropoint->x += offset.x;
+    heropoint->y += offset.y;
 }
 
 void updateHero(point points [pointNumber], hero heropoint)
@@ -65,24 +66,26 @@ int main(void)
 		indexCounter++;
 	    }
 	}
+	updateHero(points, heropoint);
 	updateScreen(points);
+
 	while(1){
 	    getkey();
 	    if(keydown(KEY_UP)){
 		heroDirection offset={0,-1};
-		moveHero(offset, heropoint);
+		moveHero(offset, &heropoint);
 	    }
 	    if(keydown(KEY_DOWN)){
 		heroDirection offset={0,1};
-		moveHero(offset, heropoint);
+		moveHero(offset, &heropoint);
 	    }
 	    if(keydown(KEY_LEFT)){
 		heroDirection offset={-1,0};
-		moveHero(offset, heropoint);
+		moveHero(offset, &heropoint);
 	    }
-	    if(keydown(KEY_DOWN)){
-		heroDirection offset={0,1};
-		moveHero(offset, heropoint);
+	    if(keydown(KEY_RIGHT)){
+		heroDirection offset={1,0};
+		moveHero(offset, &heropoint);
 	    }
 	    if(keydown(KEY_EXIT)) {
 		return 1;
