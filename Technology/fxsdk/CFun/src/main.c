@@ -1,6 +1,8 @@
 #include <gint/display.h>
 #include <gint/keyboard.h>
+#include <gint/timer.h>
 //screen size is 384 x 216/32 x 18
+
 #define dimensionX 32
 #define dimensionY 18
 #define pointNumber 576
@@ -34,9 +36,9 @@ void updateScreen(point points [pointNumber])
     dupdate();
 }
 
-void moveHero(heroDirection offset, hero* heropoint)
+void moveHero(heroDirection offset, hero* heropoint, point points [pointNumber])
 {
-    points
+    points[heropoint->x + heropoint->y * dimensionX].entity = '.';
     heropoint->x += offset.x;
     heropoint->y += offset.y;
 }
@@ -53,6 +55,7 @@ int main(void)
 	    31,17
 	};
 	
+	int timerTick = 0;
 
 	point points[pointNumber]={
 	    [0 ... pointNumberMinusOne] = {0,0,'.'}
@@ -68,24 +71,24 @@ int main(void)
 	}
 	updateHero(points, heropoint);
 	updateScreen(points);
-
+	timer_configure(TIMER_ETMU, 1000000, GINT_CALL_SET(timerTick));
 	while(1){
-	    getkey();
+	    getkey_opt(GETKEY_DEFAULT, NULL);
 	    if(keydown(KEY_UP)){
 		heroDirection offset={0,-1};
-		moveHero(offset, &heropoint);
+		moveHero(offset, &heropoint, points);
 	    }
 	    if(keydown(KEY_DOWN)){
 		heroDirection offset={0,1};
-		moveHero(offset, &heropoint);
+		moveHero(offset, &heropoint, points);
 	    }
 	    if(keydown(KEY_LEFT)){
 		heroDirection offset={-1,0};
-		moveHero(offset, &heropoint);
+		moveHero(offset, &heropoint, points);
 	    }
 	    if(keydown(KEY_RIGHT)){
 		heroDirection offset={1,0};
-		moveHero(offset, &heropoint);
+		moveHero(offset, &heropoint, points);
 	    }
 	    if(keydown(KEY_EXIT)) {
 		return 1;
