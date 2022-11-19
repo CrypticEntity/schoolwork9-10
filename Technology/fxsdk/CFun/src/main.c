@@ -54,8 +54,7 @@ int main(void)
 	hero heropoint={
 	    31,17
 	};
-	
-	int timerTick = 0;
+	volatile int* timerTick = 0;
 
 	point points[pointNumber]={
 	    [0 ... pointNumberMinusOne] = {0,0,'.'}
@@ -73,26 +72,27 @@ int main(void)
 	updateScreen(points);
 	timer_configure(TIMER_ETMU, 1000000, GINT_CALL_SET(timerTick));
 	while(1){
-	    getkey_opt(GETKEY_DEFAULT, NULL);
-	    if(keydown(KEY_UP)){
-		heroDirection offset={0,-1};
-		moveHero(offset, &heropoint, points);
-	    }
-	    if(keydown(KEY_DOWN)){
-		heroDirection offset={0,1};
-		moveHero(offset, &heropoint, points);
-	    }
-	    if(keydown(KEY_LEFT)){
-		heroDirection offset={-1,0};
-		moveHero(offset, &heropoint, points);
-	    }
-	    if(keydown(KEY_RIGHT)){
-		heroDirection offset={1,0};
-		moveHero(offset, &heropoint, points);
-	    }
-	    if(keydown(KEY_EXIT)) {
-		return 1;
-	    }
+	    getkey();
+		if(keydown(KEY_UP)){
+		    heroDirection offset={0,-1};
+		    moveHero(offset, &heropoint, points);
+		}
+		if(keydown(KEY_DOWN)){
+		    heroDirection offset={0,1};
+		    moveHero(offset, &heropoint, points);
+		}
+		if(keydown(KEY_LEFT)){
+		    heroDirection offset={-1,0};
+		    moveHero(offset, &heropoint, points);
+		}
+		if(keydown(KEY_RIGHT)){
+		    heroDirection offset={1,0};
+		    moveHero(offset, &heropoint, points);
+		}
+		if(keydown(KEY_EXIT)) {
+		    return 1;
+		}
+	    
 	updateHero(points, heropoint);
 	updateScreen(points);
 	}
